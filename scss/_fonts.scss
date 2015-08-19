@@ -1,4 +1,4 @@
-// Placeholders
+// Font stacks
 %sans {
 	font-family: 'Raleway', sans-serif; // Light: 300; Normal: 400; Semi-bold: 600.
 	font-weight: 400;
@@ -14,9 +14,16 @@
 	font-weight: 400;
 }
 
+// Text shadow
+%text-shadow {
+	text-shadow: 0 2px 3px #000;
+	text-shadow: 0 2px 3px rgba(0,0,0,.5);
+}
+
 // Main text
 body, input, ul, ol, select, option, textarea {
 	@extend %sans;
+	@extend %text-shadow;
 }
 
 h1,
@@ -25,4 +32,15 @@ h3,
 h4,
 h5 {
 	@extend %serif;
+	@extend %text-shadow;
+}
+
+.cursive {
+	@extend %cursive;
+	@extend %text-shadow;
+}
+
+// Text alignment
+body {
+	text-align: center;
 }

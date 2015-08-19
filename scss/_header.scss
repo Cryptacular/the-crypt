@@ -1,0 +1,15 @@
+// Text shadow
+%shadow {
+	box-shadow: 0 2px 3px #000;
+	box-shadow: 0 2px 3px rgba(0,0,0,.5);
+}
+
+.hero-img {
+	text-align: center;
+	.hero {
+		@extend %shadow;
+		background: $white;
+		border-radius: 50%;
+		margin: 0 auto;
+	}
+}
