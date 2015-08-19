@@ -1,0 +1,28 @@
+// Placeholders
+%sans {
+	font-family: 'Raleway', sans-serif; // Light: 300; Normal: 400; Semi-bold: 600.
+	font-weight: 400;
+}
+
+%serif {
+	font-family: 'Roboto Slab', serif; // Normal: 400; Bold: 700.
+	font-weight: 400;
+}
+
+%cursive {
+	font-family: 'Indie Flower', cursive; // Normal: 400.
+	font-weight: 400;
+}
+
+// Main text
+body, input, ul, ol, select, option, textarea {
+	@extend %sans;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	@extend %serif;
+}
