@@ -3,10 +3,16 @@ $green: #00AA6D;
 $dark-green: #003523;
 $dark-red: #942207;
 $white: #FFF;
-$black: #000;
+$black: #222;
+$light-grey: #CCC;
 
 // Background
 body {
+	background: $black;
+	color: $light-grey;
+}
+
+.background-main {
 	background: $green;
 	background: $green url('../img/patterns/rockywall-alpha.png') top left repeat;
 	color: $white;

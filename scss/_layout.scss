@@ -32,8 +32,16 @@
 }
 
 // Main section
-.main {
+.main, footer {
 	margin: 0 auto;
 	max-width: 500px;
 	text-align: justify;
+}
+
+// Footer
+@media screen and (min-device-width: 500px) {
+	.contact-details {
+		max-width: 75%;
+		margin: 0 auto;
+	}
 }

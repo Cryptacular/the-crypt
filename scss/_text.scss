@@ -87,7 +87,23 @@ h5 {
 	@extend %text-shadow;
 }
 
+footer h1 {
+	font-size: 24px;
+}
+
 // Text alignment
 body {
 	text-align: center;
+}
+
+// Icons
+[class^="icon-"], [class*=" icon-"] {
+	.grid & {
+		padding-top: 45px;
+		&:before {
+			display: block;
+			font-size: 38px;
+			margin: 15px auto 5px;
+		}
+	}
 }
