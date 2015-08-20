@@ -1,7 +1,9 @@
 // List of colours
 $green: #00AA6D;
 $dark-green: #003523;
+$dark-red: #942207;
 $white: #FFF;
+$black: #000;
 
 // Background
 body {
@@ -10,12 +12,20 @@ body {
 	color: $white;
 }
 
+.black {
+	color: $black;
+}
+
 .green {
 	color: $green;
 }
 
 .dark-green {
 	color: $dark-green;
+}
+
+.dark-red {
+	color: $dark-red;
 }
 
 .white {

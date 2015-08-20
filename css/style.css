@@ -1315,11 +1315,17 @@ body {
   background: #00AA6D url("../img/patterns/rockywall-alpha.png") top left repeat;
   color: #FFF; }
 
+.black {
+  color: #000; }
+
 .green {
   color: #00AA6D; }
 
 .dark-green {
   color: #003523; }
+
+.dark-red {
+  color: #942207; }
 
 .white {
   color: #FFF; }
@@ -1345,8 +1351,8 @@ h2,
 h3,
 h4,
 h5, .cursive {
-  text-shadow: 0 2px 3px #000;
-  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.5); }
+  text-shadow: 0 2px 2px #000;
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); }
 
 .font-weight-light {
   font-weight: 300; }
@@ -1364,7 +1370,7 @@ body {
   text-align: center; }
 
 a:link, a:visited, a:hover, a:focus {
-  color: #FFF;
+  color: #003523;
   text-decoration: none;
   font-weight: 600; }
 
@@ -1382,8 +1388,8 @@ a:link, a:visited, a:hover, a:focus {
     margin: 0 0 0 8px; }
 
 .hero-img .hero {
-  box-shadow: inset 0 2px 25px #000;
-  box-shadow: inset 0 2px 25px rgba(0, 0, 0, 0.3); }
+  box-shadow: inset 3px 4px 25px #000;
+  box-shadow: inset 3px 4px 25px rgba(0, 0, 0, 0.6); }
 
 body {
   padding: 25px; }
@@ -1391,11 +1397,13 @@ body {
 .hero-img {
   text-align: center; }
   .hero-img .hero {
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.4);
+    border: solid 2px #003523;
     border-radius: 50%;
     height: auto;
     margin: 0 auto;
     max-width: 256px;
-    padding: 10px; }
+    padding: 10px;
+    width: 80%; }
 
 /*# sourceMappingURL=style.css.map */
