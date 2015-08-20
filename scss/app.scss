@@ -1,12 +1,14 @@
-// Vendor
-@import "csswizardry-grids.scss";
-
 // Boilerplate
 @import "main.scss";
 @import "normalize.scss";
 
+// Vendor
+@import "csswizardry-grids.scss";
+@import "fontello.scss";
+
 // Custom
+@import "layout.scss";
 @import "colours.scss";
-@import "fonts.scss";
+@import "text.scss";
 @import "links.scss";
 @import "header.scss";
