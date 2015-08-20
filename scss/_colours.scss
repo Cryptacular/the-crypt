@@ -1,9 +1,23 @@
 // List of colours
 $green: #00AA6D;
+$dark-green: #003523;
 $white: #FFF;
 
 // Background
 body {
 	background: $green;
+	background: $green url('../img/patterns/rockywall-alpha.png') top left repeat;
+	color: $white;
+}
+
+.green {
+	color: $green;
+}
+
+.dark-green {
+	color: $dark-green;
+}
+
+.white {
 	color: $white;
 }

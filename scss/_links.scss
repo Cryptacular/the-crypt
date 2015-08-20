@@ -1,0 +1,29 @@
+// Links
+a {
+	&:link, &:visited, &:hover, &:focus {
+		color: $white;
+		text-decoration: none;
+		font-weight: 600;
+	}
+}
+
+// Main list of links
+.link-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	a {
+		&:hover, &:focus {
+			&:before, &:after {
+				content: '>';
+				display: inline-block;
+				font-weight: 300;
+				margin: 0 8px 0 0;
+			}
+			&:after {
+				content: '<';
+				margin: 0 0 0 8px;
+			}
+		}
+	}
+}

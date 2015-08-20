@@ -20,6 +20,22 @@
 	text-shadow: 0 2px 3px rgba(0,0,0,.5);
 }
 
+.font-weight-light {
+	font-weight: 300;
+}
+
+.font-weight-normal {
+	font-weight: 400;
+}
+
+.font-weight-semi-bold {
+	font-weight: 600;
+}
+
+.font-weight-bold {
+	font-weight: 700;
+}
+
 // Main text
 body, input, ul, ol, select, option, textarea {
 	@extend %sans;
