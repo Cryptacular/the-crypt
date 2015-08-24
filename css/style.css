@@ -1371,12 +1371,6 @@ th {
 .icon-behance-squared:before {
   content: '\e805'; }
 
-a {
-  transition: color .2s ease; }
-
-footer a {
-  transition: border-bottom .2s ease; }
-
 .mbn {
   margin-bottom: 0; }
 
@@ -1401,23 +1395,29 @@ footer a {
 .mtl {
   margin-top: 40px; }
 
-.main, footer {
-  margin: 0 auto;
-  max-width: 500px;
-  text-align: justify; }
+.pbn {
+  padding-bottom: 0; }
 
-@media screen and (min-device-width: 500px) {
-  .contact-details {
-    max-width: 75%;
-    margin: 0 auto; } }
-body {
-  background: #222;
-  color: #CCC; }
+.pbs {
+  padding-bottom: 10px; }
 
-.background-main {
-  background: #00AA6D;
-  background: #00AA6D url("../img/patterns/rockywall-alpha.png") top left repeat;
-  color: #FFF; }
+.pbm {
+  padding-bottom: 25px; }
+
+.pbl {
+  padding-bottom: 40px; }
+
+.ptn {
+  padding-top: 0; }
+
+.pts {
+  padding-top: 10px; }
+
+.ptm {
+  padding-top: 25px; }
+
+.ptl {
+  padding-top: 40px; }
 
 .black {
   color: #222; }
@@ -1433,6 +1433,43 @@ body {
 
 .white {
   color: #FFF; }
+
+.dark-grey {
+  color: #444; }
+
+a {
+  transition: color .2s ease; }
+
+footer a {
+  transition: border-bottom .2s ease; }
+
+footer, section {
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: justify; }
+
+.twitter {
+  margin: 30px 5% 0;
+  padding: 5px 15px 8px; }
+
+@media screen and (min-device-width: 500px) {
+  .contact-details {
+    max-width: 75%;
+    margin: 0 auto; } }
+body {
+  background: #222;
+  color: #CCC; }
+
+.background-main {
+  background: #00AA6D;
+  background: #00AA6D url("../img/patterns/rockywall-alpha.png") top left repeat;
+  color: #FFF; }
+
+.twitter {
+  background: #222;
+  border-radius: 5px; }
+  .twitter a:link, .twitter a:visited {
+    color: #FFF; }
 
 body, input, ul, ol, select, option, textarea {
   font-family: 'Raleway', sans-serif;

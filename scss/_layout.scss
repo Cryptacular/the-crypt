@@ -1,41 +1,13 @@
-// Margin classes
-.mbn {
-	margin-bottom: 0;
-}
-
-.mbs {
-	margin-bottom: 10px;
-}
-
-.mbm {
-	margin-bottom: 25px;
-}
-
-.mbl {
-	margin-bottom: 40px;
-}
-
-.mtn {
-	margin-top: 0;
-}
-
-.mts {
-	margin-top: 10px;
-}
-
-.mtm {
-	margin-top: 25px;
-}
-
-.mtl {
-	margin-top: 40px;
-}
-
 // Main section
-.main, footer {
+footer, section {
 	margin: 0 auto;
 	max-width: 500px;
 	text-align: justify;
+}
+
+.twitter {
+	margin: 30px 5% 0;
+	padding: 5px 15px 8px;
 }
 
 // Footer
