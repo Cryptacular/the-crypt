@@ -1,0 +1,19 @@
+// Main section
+footer, section {
+	margin: 0 auto;
+	max-width: 500px;
+	text-align: justify;
+}
+
+.twitter {
+	margin: 30px 5% 0;
+	padding: 5px 15px 8px;
+}
+
+// Footer
+@media screen and (min-device-width: 500px) {
+	.contact-details {
+		max-width: 75%;
+		margin: 0 auto;
+	}
+}

@@ -1,0 +1,109 @@
+// Font stacks
+%sans {
+	font-family: 'Raleway', sans-serif; // Light: 300; Normal: 400; Semi-bold: 600.
+	font-weight: 400;
+}
+
+%serif {
+	font-family: 'Roboto Slab', serif; // Normal: 400; Bold: 700.
+	font-weight: 400;
+}
+
+%cursive {
+	font-family: 'Indie Flower', cursive; // Normal: 400.
+	font-weight: 400;
+}
+
+// Alignment
+.align-center, .align-centre {
+	text-align: center;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-right {
+	text-align: right;
+}
+
+// Font size
+.fss { // Small
+	font-size: 14px;
+}
+
+.fsm { // Medium
+	font-size: 18px;
+}
+
+.fsl { // Large
+	font-size: 24px;
+}
+
+.fsh { // Huge
+	font-size: 48px;
+}
+
+// Text shadow
+%text-shadow {
+	text-shadow: 0 2px 2px #000;
+	text-shadow: 0 2px 2px rgba(0,0,0,.4);
+}
+
+.font-weight-light {
+	font-weight: 300;
+}
+
+.font-weight-normal {
+	font-weight: 400;
+}
+
+.font-weight-semi-bold {
+	font-weight: 600;
+}
+
+.font-weight-bold {
+	font-weight: 700;
+}
+
+// Main text
+body, input, ul, ol, select, option, textarea {
+	@extend %sans;
+	@extend %text-shadow;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	@extend %serif;
+	@extend %text-shadow;
+	text-align: center;
+}
+
+.cursive {
+	@extend %cursive;
+	@extend %text-shadow;
+}
+
+footer h1 {
+	font-size: 24px;
+}
+
+// Text alignment
+body {
+	text-align: center;
+}
+
+// Icons
+[class^="icon-"], [class*=" icon-"] {
+	.grid & {
+		padding-top: 45px;
+		&:before {
+			display: block;
+			font-size: 38px;
+			margin: 15px auto 5px;
+		}
+	}
+}

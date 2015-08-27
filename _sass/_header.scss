@@ -1,0 +1,21 @@
+// Text shadow
+%shadow {
+	box-shadow: inset 3px 4px 25px #000;
+	box-shadow: inset 3px 4px 25px rgba(0,0,0,.6)
+}
+
+// Header styles
+.hero-img {
+	text-align: center;
+	.hero {
+		@extend %shadow;
+		background: rgba(0,0,0,.4);
+		border: solid 2px $dark-green;
+		border-radius: 50%;
+		height: auto;
+		margin: 0 auto;
+		max-width: 256px;
+		padding: 10px;
+		width: 80%;
+	}
+}

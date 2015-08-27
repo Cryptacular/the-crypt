@@ -1,0 +1,16 @@
+// Body styles
+.background-main {
+	@extend %shadow;
+}
+
+header, .main, footer {
+	padding: 25px;
+}
+
+header {
+	padding-bottom: 0;
+}
+
+.main {
+	padding-top: 0;
+}

@@ -1,143 +1,79 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>The Crypt</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+title: The Crypt - Portfolio, blog and contact details for Nick Mertens
+---
 
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
-        
-        <!-- Fonts -->
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600|Roboto+Slab:400,700|Indie+Flower' rel='stylesheet' type='text/css'>
+<h1>Welcome to <span class="dark-green font-weight-bold">The Crypt</span></h1>
+<p>I'm Nick Mertens, nice to meet ya. I'm a front end developer, web designer, email marketing specialist, illustrator and &ldquo;YouTuber&rdquo; (but who isn't these days).</p>
+<p>I like to do lots of things and do them well, so if you need something done, give me a buzz! I might well be able to help, or know someone who does.</p>
+<p>Feel free to peruse the links below at your leisure and make sure to make a note of my contact details *cheeky*.</p>
+<div>
+    <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
+    <p class="cursive align-right">- xo Nick Mertens</p>
+</div>
+<div class="grid">
+    <div class="grid__item one-third align-centre">
+        <a href="#" target="_blank" class="icon-behance">Portfolio</a>
+    </div><!--
+    --><div class="grid__item one-third align-centre">
+        <a href="https://twitter.com/Cryptacular" target="_blank" class="icon-twitter">Twitter</a>
+    </div><!--
+    --><div class="grid__item one-third align-centre">
+        <a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube">YouTube</a>
+    </div>
+</div>
+<div class="twitter">
+    <p class="cursive align-centre fsm">Twittering of yours truly:</p>
+    <a class="twitter-timeline" href="https://twitter.com/Cryptacular" data-widget-id="635735179483414528" data-tweet-limit="3" data-chrome="noheader nofooter noborders noscrollbar transparent">Tweets by @Cryptacular</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="youtube">
+    <p class="cursive align-centre fsm">I'm on YouTube!</p>
+    <ul id="videos"></ul>
+    <script>
+        $(function() {
+            // Get Uploads Playlist
+            $.get(
+               "https://www.googleapis.com/youtube/v3/channels",{
+               part : 'contentDetails', 
+               forUsername : 'Cryptacular',
+               key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
+               function(data) {
+                  $.each( data.items, function( i, item ) {
+                      pid = item.contentDetails.relatedPlaylists.uploads;
+                      getVids(pid);
+                  });
+              }
+            );
 
-        <!-- Stylesheets & JS -->
-        <link rel="stylesheet" href="css/style.min.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        <div class="background-main">
-            <header>
-                <div class="hero-img">
-                    <h1><img src="img/self-portrait.png" alt="Nick Mertens" class="hero" /></h1>
-                </div>
-            </header>
-            <section class="main">
-                <h1>Welcome to <span class="dark-green font-weight-bold">The Crypt</span></h1>
-                <p>I'm Nick Mertens, nice to meet ya. I'm a front end developer, web designer, email marketing specialist, illustrator and &ldquo;YouTuber&rdquo; (but who isn't these days).</p>
-                <p>I like to do lots of things and do them well, so if you need something done, give me a buzz! I might well be able to help, or know someone who does.</p>
-                <p>Feel free to peruse the links below at your leisure and make sure to make a note of my contact details *cheeky*.</p>
-                <div>
-                    <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
-                    <p class="cursive align-right">- xo Nick Mertens</p>
-                </div>
-                <!-- <div class="link-list-container">
-                    <ul class="link-list">
-                        <li class="link-item">
-                            <a href="https://www.behance.net/nickmertens" target="_blank">Portfolio</a>
-                        </li>
-                        <li class="link-item">
-                            <a href="https://twitter.com/Cryptacular" target="_blank">Twitter</a>
-                        </li>
-                        <li class="link-item">
-                            <a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank">YouTube</a>
-                        </li>
-                    </ul>
-                </div> -->
-                <div class="grid">
-                    <div class="grid__item one-third align-centre">
-                        <a href="#" target="_blank" class="icon-behance">Portfolio</a>
-                    </div><!--
-                    --><div class="grid__item one-third align-centre">
-                        <a href="https://twitter.com/Cryptacular" target="_blank" class="icon-twitter">Twitter</a>
-                    </div><!--
-                    --><div class="grid__item one-third align-centre">
-                        <a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube">YouTube</a>
-                    </div>
-                </div>
-                <div class="twitter">
-                    <p class="cursive align-centre fsm">Twittering of yours truly:</p>
-                    <a class="twitter-timeline" href="https://twitter.com/Cryptacular" data-widget-id="635735179483414528" data-tweet-limit="3" data-chrome="noheader nofooter noborders noscrollbar transparent">Tweets by @Cryptacular</a>
-                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                </div>
-                <div class="youtube">
-                    <p class="cursive align-centre fsm">I'm on YouTube!</p>
-                    <ul id="videos"></ul>
-                    <script>
-                        $(function() {
-                            // Get Uploads Playlist
-                            $.get(
-                               "https://www.googleapis.com/youtube/v3/channels",{
-                               part : 'contentDetails', 
-                               forUsername : 'Cryptacular',
-                               key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
-                               function(data) {
-                                  $.each( data.items, function( i, item ) {
-                                      pid = item.contentDetails.relatedPlaylists.uploads;
-                                      getVids(pid);
-                                  });
-                              }
-                            );
-
-                            //Get Videos
-                            function getVids(pid){
-                                $.get(
-                                    "https://www.googleapis.com/youtube/v3/playlistItems",{
-                                    part : 'snippet', 
-                                    maxResults : 5,
-                                    playlistId : 'PLafiaA_VZ5NNBqmkNhebw4XSneJQQwwiq',
-                                    key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
-                                    function(data) {
-                                        var vidThumbnail;
-                                        var results;
-                                        $.each( data.items, function( i, item ) {
-                                            vidThumbnail = item.snippet.thumbnails.default.url;
-                                            results = '<li>'+ item.snippet.title +'</li>';
-                                            $('#videos').append(results);
-                                        });
-                                    }
-                                );
-                            }
+            //Get Videos
+            function getVids(pid){
+                $.get(
+                    "https://www.googleapis.com/youtube/v3/playlistItems",{
+                    part : 'snippet', 
+                    maxResults : 5,
+                    playlistId : 'PLafiaA_VZ5NNBqmkNhebw4XSneJQQwwiq',
+                    key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
+                    function(data) {
+                        var vidThumbnail;
+                        var results;
+                        $.each( data.items, function( i, item ) {
+                            vidThumbnail = item.snippet.thumbnails.default.url;
+                            results = '<li>'+ item.snippet.title +'</li>';
+                            $('#videos').append(results);
                         });
+                    }
+                );
+            }
+        });
 
-                    </script>
-                </div>
-            </section>
-        </div>
+    </script>
+</div>
 
-        <footer>
-            <h1>Need something done? Contact me!</h1>
-            <p>Something along the lines of web development, design or illustration? Maybe even an email marketing template for Mailchimp, Campaign Monitor or one of the other many platforms out there? I'm always happy to help!</p>
-            <div class="grid contact-details">
-                <div class="grid__item one-third grid--right">Email:</div><!--
-                --><div class="grid__item two-thirds"><a href="mailto:nick@thecrypt.co.nz">nick@thecrypt.co.nz</a></div>
-                <div class="grid__item one-third grid--right">Twitter:</div><!--
-                --><div class="grid__item two-thirds"><a href="https://twitter.com/Cryptacular" target="_blank">@Cryptacular</a></div>
-                <div class="grid__item one-third grid--right">Phone:</div><!--
-                --><div class="grid__item two-thirds">Get to know me first :P</div>
-            </div>
-            <p class="align-centre fss">&copy; 2015 Nick Mertens, The Crypt</p>
-        </footer>
-
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>
-        <script src="js/plugins.min.js"></script>
-        <script src="js/main.min.js"></script>
-
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-            e.src='https://www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-        </script>
-    </body>
-</html>
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

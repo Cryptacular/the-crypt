@@ -1,0 +1,98 @@
+// Margin classes
+.mbn {
+	margin-bottom: 0;
+}
+
+.mbs {
+	margin-bottom: 10px;
+}
+
+.mbm {
+	margin-bottom: 25px;
+}
+
+.mbl {
+	margin-bottom: 40px;
+}
+
+.mtn {
+	margin-top: 0;
+}
+
+.mts {
+	margin-top: 10px;
+}
+
+.mtm {
+	margin-top: 25px;
+}
+
+.mtl {
+	margin-top: 40px;
+}
+
+// Padding classes
+.pbn {
+	padding-bottom: 0;
+}
+
+.pbs {
+	padding-bottom: 10px;
+}
+
+.pbm {
+	padding-bottom: 25px;
+}
+
+.pbl {
+	padding-bottom: 40px;
+}
+
+.ptn {
+	padding-top: 0;
+}
+
+.pts {
+	padding-top: 10px;
+}
+
+.ptm {
+	padding-top: 25px;
+}
+
+.ptl {
+	padding-top: 40px;
+}
+
+// List of colours
+$green: #00AA6D;
+$dark-green: #003523;
+$dark-red: #942207;
+$white: #FFF;
+$black: #222;
+$light-grey: #CCC;
+$dark-grey: #444;
+
+.black {
+	color: $black;
+}
+
+.green {
+	color: $green;
+}
+
+.dark-green {
+	color: $dark-green;
+}
+
+.dark-red {
+	color: $dark-red;
+}
+
+.white {
+	color: $white;
+}
+
+.dark-grey {
+	color: $dark-grey;
+}
