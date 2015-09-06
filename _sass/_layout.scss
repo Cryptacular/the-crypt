@@ -1,8 +1,13 @@
 // Main section
 footer, section {
 	margin: 0 auto;
-	max-width: 500px;
+	// max-width: 500px;
 	text-align: justify;
+}
+
+.background-main {
+	margin: 20px auto 0;
+	max-width: 768px;
 }
 
 .twitter {
@@ -10,7 +15,16 @@ footer, section {
 	padding: 5px 15px 8px;
 }
 
+// Blog
+.pagination {
+	text-align: center;
+}
+
 // Footer
+footer {
+	max-width: 768px;
+}
+
 @media screen and (min-device-width: 500px) {
 	.contact-details {
 		max-width: 75%;

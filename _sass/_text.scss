@@ -82,6 +82,10 @@ h5 {
 	text-align: center;
 }
 
+h2, .h2 {
+	font-size: 1.3em;
+}
+
 .cursive {
 	@extend %cursive;
 	@extend %text-shadow;
@@ -89,6 +93,7 @@ h5 {
 
 footer h1 {
 	font-size: 24px;
+	margin-top: 0;
 }
 
 // Text alignment
@@ -105,5 +110,21 @@ body {
 			font-size: 38px;
 			margin: 15px auto 5px;
 		}
+	}
+}
+
+// Blog
+article {
+	.date {
+		font-style: italic;
+		text-align: center;
+	}
+}
+
+// Pagination
+.pagination {
+	font-style: italic;
+	.current-page {
+		border-bottom: 1px solid $white;
 	}
 }

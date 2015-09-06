@@ -7,67 +7,21 @@ title: The Crypt - Portfolio, blog and contact details for Nick Mertens
 <p>I'm Nick Mertens, nice to meet ya. I'm a front end developer, web designer, email marketing specialist, illustrator and &ldquo;YouTuber&rdquo; (but who isn't these days).</p>
 <p>I like to do lots of things and do them well, so if you need something done, give me a buzz! I might well be able to help, or know someone who does.</p>
 <p>Feel free to peruse the links below at your leisure and make sure to make a note of my contact details *cheeky*.</p>
+<p>I'm also on Patreon, where I accept small donations in return for a sneak peek into my art process, with the main goal of improving my art! <a href="https://www.patreon.com/nickmertens" target="_blank">Click here to view my Patreon page!</a></p>
 <div>
     <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
     <p class="cursive align-right">- xo Nick Mertens</p>
 </div>
 <div class="grid">
     <div class="grid__item one-third align-centre">
-        <a href="#" target="_blank" class="icon-behance">Portfolio</a>
+        <h2><a href="#" target="_blank" class="icon-feather">Blog &amp; Portfolio</a></h2>
     </div><!--
     --><div class="grid__item one-third align-centre">
-        <a href="https://twitter.com/Cryptacular" target="_blank" class="icon-twitter">Twitter</a>
+        <h2><a href="https://twitter.com/Cryptacular" target="_blank" class="icon-twitter">Twitter</a></h2>
     </div><!--
     --><div class="grid__item one-third align-centre">
-        <a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube">YouTube</a>
+        <h2><a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube">YouTube</a></h2>
     </div>
-</div>
-<div class="twitter">
-    <p class="cursive align-centre fsm">Twittering of yours truly:</p>
-    <a class="twitter-timeline" href="https://twitter.com/Cryptacular" data-widget-id="635735179483414528" data-tweet-limit="3" data-chrome="noheader nofooter noborders noscrollbar transparent">Tweets by @Cryptacular</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
-<div class="youtube">
-    <p class="cursive align-centre fsm">I'm on YouTube!</p>
-    <ul id="videos"></ul>
-    <script>
-        $(function() {
-            // Get Uploads Playlist
-            $.get(
-               "https://www.googleapis.com/youtube/v3/channels",{
-               part : 'contentDetails', 
-               forUsername : 'Cryptacular',
-               key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
-               function(data) {
-                  $.each( data.items, function( i, item ) {
-                      pid = item.contentDetails.relatedPlaylists.uploads;
-                      getVids(pid);
-                  });
-              }
-            );
-
-            //Get Videos
-            function getVids(pid){
-                $.get(
-                    "https://www.googleapis.com/youtube/v3/playlistItems",{
-                    part : 'snippet', 
-                    maxResults : 5,
-                    playlistId : 'PLafiaA_VZ5NNBqmkNhebw4XSneJQQwwiq',
-                    key: 'AIzaSyDs--CRigZQ8hu1U7danwDBiEb3imVYMPI'},
-                    function(data) {
-                        var vidThumbnail;
-                        var results;
-                        $.each( data.items, function( i, item ) {
-                            vidThumbnail = item.snippet.thumbnails.default.url;
-                            results = '<li>'+ item.snippet.title +'</li>';
-                            $('#videos').append(results);
-                        });
-                    }
-                );
-            }
-        });
-
-    </script>
 </div>
 
 <ul>
