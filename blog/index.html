@@ -9,8 +9,8 @@ title: The Crypt - Blog and portfolio
 
 {% for post in paginator.posts %}
 <article>
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="date font-weight-light">{{ post.date }}</p>
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="date font-weight-light">{{ post.date | date: "%-d %b, %Y" }}</p>
     <div class="content">
         {{ post.content }}
     </div>

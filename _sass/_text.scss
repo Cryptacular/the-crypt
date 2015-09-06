@@ -114,9 +114,13 @@ body {
 }
 
 // Blog
-article {
+article, .post-header {
+	h1 {
+		margin-bottom: 0;
+	}
 	.date {
 		font-style: italic;
+		margin: 0;
 		text-align: center;
 	}
 }

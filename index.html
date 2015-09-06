@@ -13,21 +13,16 @@ title: The Crypt - Portfolio, blog and contact details for Nick Mertens
     <p class="cursive align-right">- xo Nick Mertens</p>
 </div>
 <div class="grid">
-    <div class="grid__item one-third align-centre">
-        <h2><a href="#" target="_blank" class="icon-feather">Blog &amp; Portfolio</a></h2>
+    <div class="grid__item one-quarter align-centre">
+        <h2><a href="{{ site.baseurl }}/blog/" class="icon-feather">Blog &amp; Portfolio</a></h2>
     </div><!--
-    --><div class="grid__item one-third align-centre">
+    --><div class="grid__item one-quarter align-centre">
         <h2><a href="https://twitter.com/Cryptacular" target="_blank" class="icon-twitter">Twitter</a></h2>
     </div><!--
-    --><div class="grid__item one-third align-centre">
-        <h2><a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube">YouTube</a></h2>
+    --><div class="grid__item one-quarter align-centre">
+        <h2><a href="https://nz.linkedin.com/pub/nick-mertens/30/998/667" target="_blank" class="icon-linkedin">LinkedIn</a></h2>
+    </div><!--
+    --><div class="grid__item one-quarter align-centre">
+        <h2><a href="https://www.youtube.com/channel/UCX6nykQNcP0aSBz11ADdptQ" target="_blank" class="icon-youtube-play">YouTube</a></h2>
     </div>
 </div>
-
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
