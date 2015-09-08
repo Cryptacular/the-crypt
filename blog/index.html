@@ -1,11 +1,13 @@
 ---
 layout: default
-title: The Crypt - Blog and portfolio
+title: Blog and portfolio
 ---
 
 <h1>Welcome to <span class="dark-green font-weight-bold">The Crypt</span></h1>
 <h2>Blog &amp; Portfolio</h2>
 <p>Welcome to my blog and portfolio! This is where I post new work and the occasional update around illustration, web development and other topics.</p>
+
+<p class="align-centre fsl"><span class="side-lines"><i class="icon-feather dark-green"></i></span></p>
 
 {% for post in paginator.posts %}
 <article>
@@ -15,6 +17,8 @@ title: The Crypt - Blog and portfolio
         {{ post.content }}
     </div>
 </article>
+
+<p class="align-centre fsl"><span class="side-lines"><i class="icon-feather dark-green"></i></span></p>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

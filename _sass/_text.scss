@@ -125,6 +125,14 @@ article, .post-header {
 	}
 }
 
+// Dividers
+.side-lines {
+	&:before, &:after {
+    	content: "—";
+    	color: $dark-green;
+    }
+}
+
 // Pagination
 .pagination {
 	font-style: italic;

@@ -1,0 +1,5 @@
+<nav class="main-nav">
+	<li><a href="{{ site.baseurl }}/" {% if page.url == "/" or page.url == "/index.html" %}class="selected"{% endif %}>Home</a></li>
+	<li><a href="{{ site.baseurl }}/blog/" {% if page.url contains "/blog/" %}class="selected"{% endif %}>Blog</a></li>
+	<li><a href="{{ site.baseurl }}/about/" {% if page.url contains "/about/" %}class="selected"{% endif %}>About</a></li>
+</nav>
