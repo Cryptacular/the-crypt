@@ -23,6 +23,7 @@ footer, section {
 
 .background-main {
 	margin: 0 auto;
+	max-width: 48em;
 }
 
 .twitter {
@@ -40,12 +41,9 @@ footer {
 	max-width: 768px;
 }
 
-@media screen and (min-device-width: 48em) and (-webkit-min-device-pixel-ratio: 1) {
+@media screen and (min-device-width: 48em) {
 	.contact-details {
 		max-width: 75%;
 		margin: 0 auto;
-	}
-	.background-main {
-		max-width: 48em;
 	}
 }
