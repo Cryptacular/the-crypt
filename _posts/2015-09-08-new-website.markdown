@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The new website is REAL!
-category: updates
 ---
 
 Hi everyone! If you've seen my website before, you might notice it's changed a lot!
