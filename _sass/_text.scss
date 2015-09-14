@@ -72,6 +72,14 @@ body, input, ul, ol, select, option, textarea {
 	@extend %text-shadow;
 }
 
+::selection {
+  background: $black;
+  color: $white;
+}
+// ::-moz-selection {
+//   @extend ::selection;
+// }
+
 h1,
 h2,
 h3,
