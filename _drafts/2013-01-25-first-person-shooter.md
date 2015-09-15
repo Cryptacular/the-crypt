@@ -2,7 +2,7 @@
 title: First Person Shooter
 author: admin
 layout: post
-permalink: /category/portfolio/3d/animation/first-person-shooter/
+permalink: /blog/portfolio/3d/animation/first-person-shooter/
 categories:
   - Animation
   - Modelling

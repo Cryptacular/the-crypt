@@ -2,7 +2,7 @@
 title: 'Animation Appreciation: Nameless Bob 2'
 author: admin
 layout: post
-permalink: /category/blog/animation-appreciation-nameless-bob-2/
+permalink: /blog/blog/animation-appreciation-nameless-bob-2/
 categories:
   - Animation Appreciation
   - Blog

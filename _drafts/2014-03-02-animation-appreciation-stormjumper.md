@@ -2,7 +2,7 @@
 title: 'Animation Appreciation: StormJumper'
 author: admin
 layout: post
-permalink: /category/blog/animation-appreciation-stormjumper/
+permalink: /blog/blog/animation-appreciation-stormjumper/
 categories:
   - Animation Appreciation
   - Blog

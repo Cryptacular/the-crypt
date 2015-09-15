@@ -2,7 +2,7 @@
 title: Scott Pilgrim vs. Dark Souls
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/scott-pilgrim-vs-dark-souls/
+permalink: /blog/portfolio/2d/illustration/scott-pilgrim-vs-dark-souls/
 categories:
   - Illustration
   - Vector

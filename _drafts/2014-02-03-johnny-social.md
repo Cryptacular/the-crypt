@@ -2,7 +2,7 @@
 title: Johnny Social
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/johnny-social/
+permalink: /blog/portfolio/2d/illustration/johnny-social/
 categories:
   - Illustration
 format: image

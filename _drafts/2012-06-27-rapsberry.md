@@ -2,7 +2,7 @@
 title: Rapsberry
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/rapsberry/
+permalink: /blog/portfolio/2d/illustration/rapsberry/
 categories:
   - Illustration
 format: image

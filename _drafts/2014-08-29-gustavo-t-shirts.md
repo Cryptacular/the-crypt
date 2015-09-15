@@ -2,7 +2,7 @@
 title: Gustavo T-shirts!
 author: admin
 layout: post
-permalink: /category/blog/personal-work/gustavo-t-shirts/
+permalink: /blog/blog/personal-work/gustavo-t-shirts/
 categories:
   - Personal Work
 ---

@@ -2,7 +2,7 @@
 title: A Guide to Brains
 author: admin
 layout: post
-permalink: /category/portfolio/2d/vector/a-guide-to-brains/
+permalink: /blog/portfolio/2d/vector/a-guide-to-brains/
 categories:
   - Vector
 format: image

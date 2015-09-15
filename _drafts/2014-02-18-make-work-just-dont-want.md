@@ -2,7 +2,7 @@
 title: How to Make Yourself Work When You Just Don’t Want To
 author: admin
 layout: post
-permalink: /category/blog/make-work-just-dont-want/
+permalink: /blog/blog/make-work-just-dont-want/
 categories:
   - Blog
 ---

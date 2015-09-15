@@ -2,7 +2,7 @@
 title: Invader Ziltoid T-Shirts now available
 author: admin
 layout: post
-permalink: /category/blog/invader-ziltoid-t-shirts-now-available/
+permalink: /blog/blog/invader-ziltoid-t-shirts-now-available/
 categories:
   - Blog
   - Personal Work

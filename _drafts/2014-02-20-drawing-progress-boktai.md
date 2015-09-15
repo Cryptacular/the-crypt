@@ -2,7 +2,7 @@
 title: 'Drawing in Progress: Boktai'
 author: admin
 layout: post
-permalink: /category/blog/drawing-progress-boktai/
+permalink: /blog/blog/drawing-progress-boktai/
 categories:
   - Blog
 ---

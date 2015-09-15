@@ -2,7 +2,7 @@
 title: The Possession of Silver by Corey Leigh
 author: admin
 layout: post
-permalink: /category/blog/possession-of-silver-by-corey-leigh/
+permalink: /blog/blog/possession-of-silver-by-corey-leigh/
 categories:
   - Blog
 ---

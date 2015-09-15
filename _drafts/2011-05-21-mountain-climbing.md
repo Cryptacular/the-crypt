@@ -2,7 +2,7 @@
 title: Mountain Climbing
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/mountain-climbing/
+permalink: /blog/portfolio/2d/illustration/mountain-climbing/
 categories:
   - Illustration
 format: image

@@ -2,7 +2,7 @@
 title: A Journey with Dust
 author: admin
 layout: post
-permalink: /category/blog/journey-dust/
+permalink: /blog/blog/journey-dust/
 categories:
   - Blog
 ---

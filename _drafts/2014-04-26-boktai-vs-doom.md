@@ -2,7 +2,7 @@
 title: Boktai vs. Doom
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/boktai-vs-doom/
+permalink: /blog/portfolio/2d/illustration/boktai-vs-doom/
 categories:
   - Illustration
 format: image

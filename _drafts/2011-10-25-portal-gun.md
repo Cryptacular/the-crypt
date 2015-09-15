@@ -2,7 +2,7 @@
 title: Portal Gun
 author: admin
 layout: post
-permalink: /category/portfolio/3d/modelling/portal-gun/
+permalink: /blog/portfolio/3d/modelling/portal-gun/
 categories:
   - Modelling
 format: image

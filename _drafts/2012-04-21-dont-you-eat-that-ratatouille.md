@@ -2,7 +2,7 @@
 title: 'Don&#8217;t You Eat That Ratatouille'
 author: admin
 layout: post
-permalink: /category/portfolio/3d/texturing/dont-you-eat-that-ratatouille/
+permalink: /blog/portfolio/3d/texturing/dont-you-eat-that-ratatouille/
 categories:
   - Texturing
 format: image

@@ -2,7 +2,7 @@
 title: Invader Ziltoid
 author: admin
 layout: post
-permalink: /category/portfolio/invader-ziltoid/
+permalink: /blog/portfolio/invader-ziltoid/
 categories:
   - Illustration
   - Portfolio (All)

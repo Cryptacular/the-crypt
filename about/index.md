@@ -19,5 +19,5 @@ I'm pretty easy-going, so if you have any questions, just give me a yell!
 
 <div>
     <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
-    <p class="cursive align-right">xo Nick Mertens, The Crypt Keeper</p>
+    <p class="cursive align-right fsl">- Nick Mertens</p>
 </div>

@@ -2,7 +2,7 @@
 title: A Nightly Habit
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/a-nightly-habit/
+permalink: /blog/portfolio/2d/illustration/a-nightly-habit/
 categories:
   - Illustration
 format: image

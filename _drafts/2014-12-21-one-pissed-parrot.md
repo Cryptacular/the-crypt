@@ -2,7 +2,7 @@
 title: One Pissed Parrot
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/one-pissed-parrot/
+permalink: /blog/portfolio/2d/illustration/one-pissed-parrot/
 categories:
   - Illustration
 format: image

@@ -2,7 +2,7 @@
 title: The Night Pandas
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/night-pandas/
+permalink: /blog/portfolio/2d/illustration/night-pandas/
 categories:
   - Illustration
   - Vector

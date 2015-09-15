@@ -2,7 +2,7 @@
 title: 'BlenderGuru Competition: Characters'
 author: admin
 layout: post
-permalink: /category/blog/blenderguru-competition-characters/
+permalink: /blog/blog/blenderguru-competition-characters/
 categories:
   - Blog
 ---

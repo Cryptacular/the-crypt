@@ -2,7 +2,7 @@
 title: A Relatively Deserted Hallway
 author: admin
 layout: post
-permalink: /category/portfolio/3d/texturing/a-relatively-deserted-hallway/
+permalink: /blog/portfolio/3d/texturing/a-relatively-deserted-hallway/
 categories:
   - Texturing
 format: image

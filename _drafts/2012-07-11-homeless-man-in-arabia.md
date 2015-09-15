@@ -2,7 +2,7 @@
 title: Homeless Man in Arabia
 author: admin
 layout: post
-permalink: /category/portfolio/3d/modelling/homeless-man-in-arabia/
+permalink: /blog/portfolio/3d/modelling/homeless-man-in-arabia/
 categories:
   - Modelling
   - Texturing

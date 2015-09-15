@@ -2,7 +2,7 @@
 title: 'Drawing in Progress: Mashup time!'
 author: admin
 layout: post
-permalink: /category/blog/drawing-progress-mashup-time/
+permalink: /blog/blog/drawing-progress-mashup-time/
 categories:
   - Blog
   - Personal Work

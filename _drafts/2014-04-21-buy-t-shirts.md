@@ -2,7 +2,7 @@
 title: Buy my T-shirts!
 author: admin
 layout: post
-permalink: /category/blog/personal-work/buy-t-shirts/
+permalink: /blog/blog/personal-work/buy-t-shirts/
 categories:
   - Personal Work
 ---

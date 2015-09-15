@@ -2,7 +2,7 @@
 title: 'Drawing in Progress: Boktai (Update #2)'
 author: admin
 layout: post
-permalink: /category/blog/drawing-progress-boktai-update-2/
+permalink: /blog/blog/drawing-progress-boktai-update-2/
 categories:
   - Blog
   - Personal Work

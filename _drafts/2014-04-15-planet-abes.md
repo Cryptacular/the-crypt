@@ -2,7 +2,7 @@
 title: Planet of the Abes
 author: admin
 layout: post
-permalink: /category/portfolio/2d/illustration/planet-abes/
+permalink: /blog/portfolio/2d/illustration/planet-abes/
 categories:
   - Illustration
   - Vector

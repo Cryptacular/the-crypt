@@ -2,7 +2,7 @@
 title: The Opening Scene
 author: admin
 layout: post
-permalink: /category/portfolio/3d/animation/the-opening-scene/
+permalink: /blog/portfolio/3d/animation/the-opening-scene/
 categories:
   - Animation
 format: image

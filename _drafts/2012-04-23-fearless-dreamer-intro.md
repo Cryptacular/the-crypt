@@ -2,7 +2,7 @@
 title: Fearless Dreamer Intro
 author: admin
 layout: post
-permalink: /category/portfolio/3d/animation/fearless-dreamer-intro/
+permalink: /blog/portfolio/3d/animation/fearless-dreamer-intro/
 categories:
   - Animation
   - Modelling
