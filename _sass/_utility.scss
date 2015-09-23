@@ -64,6 +64,46 @@
 	padding-top: 40px;
 }
 
+// Align & float
+.align-center, .align-centre {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+// Font size
+.fss { // Small
+	font-size: 14px;
+}
+
+.fsm { // Medium
+	font-size: 18px;
+}
+
+.fsl { // Large
+	font-size: 24px;
+}
+
+.fsh { // Huge
+	font-size: 48px;
+}
+
 // List of colours
 $green: #00AA6D;
 $dark-green: #003523;

@@ -5,7 +5,7 @@ layout: post
 permalink: /blog/portfolio/2d/illustration/one-pissed-parrot/
 categories:
   - Illustration
-format: image
+image: "/img/wp-uploads/2014/12/parrot-512.jpg"
 ---
 This is one pissed parrot. Why is he pissed? It might have something to do with those feathers there.
 
@@ -13,14 +13,16 @@ It all started with a few quick sketches, before settling on this one. As you ca
 
 Hope you like it! Make sure to follow me on <a href="https://twitter.com/Cryptacular" target="_blank">Twitter</a> and <a href="http://instagram.com/creationsfromthecrypt/" target="_blank">Instagram</a> for more art updates :)
 
-[<img class="alignnone size-thumbnail wp-image-417" alt="parrot-stage-01" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-01-150x150.jpg" width="150" height="150" />][1][<img class="alignnone size-thumbnail wp-image-418" alt="parrot-stage-02" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-02-150x150.jpg" width="150" height="150" />][2][<img class="alignnone size-thumbnail wp-image-419" alt="parrot-stage-03" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-03-150x150.jpg" width="150" height="150" />][3][<img class="alignnone size-thumbnail wp-image-420" alt="parrot-stage-04" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-04-150x150.jpg" width="150" height="150" />][4][<img class="alignnone size-thumbnail wp-image-421" alt="parrot-stage-05" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-05-150x150.jpg" width="150" height="150" />][5][<img class="alignnone size-thumbnail wp-image-422" alt="parrot-stage-06" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-06-150x150.jpg" width="150" height="150" />][6][<img class="alignnone size-thumbnail wp-image-423" alt="parrot-stage-07" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-07-150x150.jpg" width="150" height="150" />][7][<img class="alignnone size-thumbnail wp-image-424" alt="parrot-stage-08" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-08-150x150.jpg" width="150" height="150" />][8][<img src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-512-150x150.jpg" alt="parrot-512" width="150" height="150" class="alignnone size-thumbnail wp-image-416" />][9]
+<div data-featherlight-gallery data-featherlight-filter="a" class="gallery align-centre">
+	<a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-01.jpg"><img class="alignnone size-thumbnail wp-image-417" alt="parrot-stage-01" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-01-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-02.jpg"><img class="alignnone size-thumbnail wp-image-418" alt="parrot-stage-02" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-02-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-03.jpg"><img class="alignnone size-thumbnail wp-image-419" alt="parrot-stage-03" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-03-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-04.jpg"><img class="alignnone size-thumbnail wp-image-420" alt="parrot-stage-04" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-04-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-05.jpg"><img class="alignnone size-thumbnail wp-image-421" alt="parrot-stage-05" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-05-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-06.jpg"><img class="alignnone size-thumbnail wp-image-422" alt="parrot-stage-06" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-06-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-07.jpg"><img class="alignnone size-thumbnail wp-image-423" alt="parrot-stage-07" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-07-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-08.jpg"><img class="alignnone size-thumbnail wp-image-424" alt="parrot-stage-08" src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-08-150x150.jpg" width="150" height="150"></a><a href="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-512.jpg"><img src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-512-150x150.jpg" alt="parrot-512" width="150" height="150" class="alignnone size-thumbnail wp-image-416"></a>
+</div>
 
- [1]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-01.jpg
- [2]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-02.jpg
- [3]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-03.jpg
- [4]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-04.jpg
- [5]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-05.jpg
- [6]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-06.jpg
- [7]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-07.jpg
- [8]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-08.jpg
- [9]: src="{{ site.baseurl }}/img/wp-uploads/2014/12/parrot-512.jpg
+ [1]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-01.jpg
+ [2]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-02.jpg
+ [3]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-03.jpg
+ [4]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-04.jpg
+ [5]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-05.jpg
+ [6]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-06.jpg
+ [7]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-07.jpg
+ [8]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-stage-08.jpg
+ [9]: {{ site.baseurl }}/img/wp-uploads/2014/12/parrot-512.jpg

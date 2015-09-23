@@ -17,6 +17,13 @@ a {
 	}
 }
 
+// Images with Featherlight lightboxes
+img[data-featherlight] {
+	&:hover, &:focus, &:active {
+		cursor: pointer;
+	}
+}
+
 // Nav
 .main-nav {
 	a.selected {

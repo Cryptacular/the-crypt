@@ -14,7 +14,15 @@ title: Blog and portfolio
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     <p class="date font-weight-light">{{ post.date | date: "%-d %b, %Y" }}</p>
     <div class="content">
-        {{ post.content }}
+        {% if post.image %}
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" class="feature-img-blog {% cycle 'float-right', 'float-left' %}" /></a>
+        {% endif %}
+        {% assign truncatedContent = '' %}
+        {% assign paragraphs = post.content | split:'</p>' %}
+        {% for paragraph in paragraphs limit:2 %}
+            {{ truncatedContent | append: paragraph }}
+            {{ truncatedContent | append: '</p>' }}
+        {% endfor %}
     </div>
 </article>
 
