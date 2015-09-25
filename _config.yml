@@ -1,5 +1,6 @@
 # Site settings
 title: The Crypt
+version: 1
 email: nick@thecrypt.co.nz
 description: > # this means to ignore newlines until "baseurl:"
   Blog and portfolio of Nick Mertens, with contact details and links to several social media accounts.
