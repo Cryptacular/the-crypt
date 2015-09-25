@@ -88,6 +88,20 @@ body {
 	text-align: center;
 }
 
+// Blockquotes
+blockquote {
+	border-left: 2px solid $white;
+	font-style: italic;
+	padding-left: 15px;
+}
+
+// Code blocks
+code {
+	background: rgba(0,0,0,0.3);
+	display: block;
+	padding: 5px 10px;
+}
+
 // Icons
 [class^="icon-"], [class*=" icon-"] {
 	.grid & {
