@@ -2,9 +2,7 @@
 title: One Pissed Parrot
 author: admin
 layout: post
-permalink: /blog/portfolio/2d/illustration/one-pissed-parrot/
-categories:
-  - Illustration
+categories: Illustration
 image: "/img/wp-uploads/2014/12/parrot-512.jpg"
 ---
 This is one pissed parrot. Why is he pissed? It might have something to do with those feathers there.

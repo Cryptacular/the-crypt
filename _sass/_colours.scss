@@ -5,6 +5,11 @@ body {
 	color: $light-grey;
 }
 
+// Outline colour for keyboard navigation
+*:focus {
+	outline-color: #FFF;
+}
+
 // Main
 .background-main {
 	background: $green;
