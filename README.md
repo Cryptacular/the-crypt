@@ -10,6 +10,7 @@ Welcome to the rebuild of The Crypt website on [Jekyll](http://jekyllrb.com).
 
 ### How do I get set up? ###
 
+* You'll need to be on a Mac
 * Stuff
 
 ### Managing pages ###
@@ -26,4 +27,5 @@ Welcome to the rebuild of The Crypt website on [Jekyll](http://jekyllrb.com).
 
 ### Owner of this website ###
 
-* Repo owner or admin
+* Nick Mertens
+* [nick@thecrypt.co.nz](mailto:nick@thecrypt.co.nz)
