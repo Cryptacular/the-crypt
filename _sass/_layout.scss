@@ -70,6 +70,18 @@ footer, section {
 	}
 }
 
+// Tables
+table {
+	width: 100%;
+	td {
+		padding: 2px 40px;
+		padding-left: 0;
+		&:first-child {
+			@extend .font-weight-bold;
+		}
+	}
+}
+
 // Footer
 footer {
 	max-width: 768px;
