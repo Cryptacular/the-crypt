@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curriculum Vitae
+description: Curriculum Vitae for Nick Mertens
 ---
 
 # Curriculum Vitae - Nick Mertens
