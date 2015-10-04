@@ -3,7 +3,21 @@ layout: default
 title: Curriculum Vitae
 ---
 
-## Personal Details
+# Curriculum Vitae - Nick Mertens
+
+## Index
+
+1. [Personal Details](#personal-details)
+2. [Personal Summary](#personal-summary)
+3. [Education](#education)
+4. [Skills](#skills)
+5. [Work Experience](#work-experience)
+6. [Recognitions](#recognitions)
+7. [Interests](#interests)
+8. [Attitude](#attitude)
+9. [References](#references)
+
+## <a name="personal-details"></a>Personal Details
 
 | Name | Nick Mertens |
 | Address | 8/83 Symonds Street |
@@ -18,7 +32,7 @@ title: Curriculum Vitae
 | Visa Status | Permanent Resident since 22 April 2005 |
 | Driver Licence | Full Licence |
 
-## Personal Summary
+## <a name="personal-summary"></a>Personal Summary
  
 My name is Nick Mertens and I'm a hard-working, creative, loyal and honest guy, with a good sense of humour. I have developed a keen interest in front end development, after starting my career as an email marketer. As I learned the ropes of email marketing and it’s very strange coding practices, I started leaning increasingly more towards front end development, as it’s an area that is constantly and quickly evolving.
 
@@ -34,7 +48,7 @@ Before Spike I completed a Diploma of 3D Animation at Media Design School with m
 
 Thank you for your time and please feel free to contact me at any time.
 
-## Education
+## <a name="education"></a>Education
 
 | April 2015 - June 2015 | Figurative Illustration - evening class at Whitecliffe College of Arts & Design |
 | Sept 2011 - July 2012 | Media Design School - Diploma of 3D Animation with Merit |
@@ -42,7 +56,7 @@ Thank you for your time and please feel free to contact me at any time.
 | 2005 - 2007 | Mt Albert Grammar School, Auckland - completed NCEA level 3 |
 | 2000 - 2005 | Haarlemmermeer Lyceum, the Netherlands |
 
-## Skills
+## <a name="skills"></a>Skills
 
 Web:
 
@@ -135,7 +149,7 @@ Other:
 * Excel
 * Powerpoint
  
-## Work Experience
+## <a name="work-experience"></a>Work Experience
 
 ### Avis Budget Group - Digital Technician
 <p class="align-centre">June 2015 - current</p>
@@ -234,19 +248,19 @@ Other:
 
 * Customer service and retail assistant.
 
-## Recognitions
+## <a name="recognitions"></a>Recognitions
  
 21 August 2012:
 Industry Award: High Commended in Texturing. Awarded for my work on the final production of the 3D Animation course at Media Design School.
 
-## Interests
+## <a name="interests"></a>Interests
 
 HTML, web and email development, email marketing, 3D modelling, texturing, animation etc, illustration (on paper & digital), music (rock/metal), video games, books, movies.
 
-## Attitude
+## <a name="attitude"></a>Attitude
 
 Hard working, easy going young lad, with a great passion for anything 3D, email marketing and web design, willing to put in the hard yards, both individually and in a team environment.
 
-## References
+## <a name="references"></a>References
 
 References on request for Spike, Image Centre Group and others.
