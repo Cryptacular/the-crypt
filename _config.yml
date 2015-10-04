@@ -5,8 +5,8 @@ email: nick@thecrypt.co.nz
 description: > # this means to ignore newlines until "baseurl:"
   Blog and portfolio of Nick Mertens, with contact details and links to several social media accounts.
 keywords: "Nick Mertens, blog, portfolio, social media, social, twitter, youtube, patreon"
-baseurl: "/crypt-redesign" # Use "/crypt-redesign" for projects.thecrypt.co.nz subdomain. Use "" for main site.
-url: "http://projects.thecrypt.co.nz" #Use "http://projects.thecrypt.co.nz" for subdomain. Use "http://thecrypt.co.nz" for main site.
+baseurl: "" # Use "/crypt-redesign" for projects.thecrypt.co.nz subdomain. Use "" for main site.
+url: "http://thecrypt.co.nz" #Use "http://projects.thecrypt.co.nz" for subdomain. Use "http://thecrypt.co.nz" for main site.
 twitter_username: Cryptacular
 github_username:  Cryptacular
 paginate: 5
