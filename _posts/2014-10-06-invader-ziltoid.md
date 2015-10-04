@@ -21,5 +21,3 @@ Some progress shots:
 <div data-featherlight-gallery data-featherlight-filter="a" class="mbm">
   <a href="{{ site.baseurl }}/img/wp-uploads/2014/10/sketch.jpg"><img src="{{ site.baseurl }}/img/wp-uploads/2014/10/sketch-150x150.jpg" alt="sketch" width="150" height="150" class="alignnone size-thumbnail wp-image-391" /></a> <a href="{{ site.baseurl }}/img/wp-uploads/2014/10/ink.jpg"><img src="{{ site.baseurl }}/img/wp-uploads/2014/10/ink-150x150.jpg" alt="ink" width="150" height="150" class="alignnone size-thumbnail wp-image-392" /></a> <a href="{{ site.baseurl }}/img/wp-uploads/2014/10/invader-ziltoid-wip.jpg"><img src="{{ site.baseurl }}/img/wp-uploads/2014/10/invader-ziltoid-wip-150x150.jpg" alt="invader-ziltoid-wip" width="150" height="150" class="alignnone size-thumbnail wp-image-394" />
 </div>
-
-&nbsp;
