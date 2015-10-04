@@ -5,7 +5,6 @@ layout: post
 categories:
   - Blog
   - Personal Work
-image: "/img/wp-uploads/2014/10/invader-ziltoid-web.jpg"
 ---
 As of today, you can get your very own [Invader Ziltoid][1] shirt! Available in Mens and Womens styles in a range of sizes and colours! Check them out below:
 
