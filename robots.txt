@@ -3,3 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow: /cv/
+Disallow: /past-work/

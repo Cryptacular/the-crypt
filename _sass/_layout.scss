@@ -70,6 +70,11 @@ footer, section {
 	}
 }
 
+// Featherlight fixes/overrides
+.featherlight .featherlight-content {
+	min-width: 0;
+}
+
 // Tables
 table {
 	width: 100%;

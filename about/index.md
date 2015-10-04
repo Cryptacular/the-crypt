@@ -12,6 +12,8 @@ I'm a front end developer, email marketer, designer, illustrator and 3D animator
 
 Whereas my roots lay in email marketing, my main focus is front end development. I like the balance that front end development gives between creativity and logical thinking. I'm skilled in HTML, CSS, Javascript/JQuery, SASS, Git, Django, Shopify and have worked with a bunch of CMS frameworks. I'm always learning so if you're after anything specific, let me know!
 
+I also completed a Diploma of 3D Animation at [Media Design School](http://www.mediadesignschool.com/) with Merit and received an Industry Award for Excellence in Texturing on my final project.
+
 So, if you need anything done that fits loosely within the above categories, or you have any questions, be sure to give me a yell through the contact details below.
 
 <div>
