@@ -14,6 +14,8 @@ It gives you much more freedom as a developer to tweak your site and add and upd
 
 On that note, though, I've had to export all my previous posts from WordPress and convert them to Markdown format. The brunt of the work was done via a plugin, but most posts still need some cleaning up. So, for now this blog will be a little empty, but I will start adding them back in over the next little while.
 
+For the time being, you can see most of my portfolio on my [Behance](http://behance.net/nickmertens/) page.
+
 New features, projects and more will all be posted here so keep an eye out :)
 
 Thanks for reading!
