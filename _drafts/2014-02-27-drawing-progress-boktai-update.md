@@ -7,7 +7,7 @@ categories:
   - Blog
   - Personal Work
 ---
-[<img class="alignright size-medium wp-image-251" alt="Boktai of Doom WIP 2" src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-of-doom-v3-259x300.jpg" width="259" height="300" />][1]Slowly but surely my Doom cover-style Boktai drawing is coming along. I&#8217;ve added more shading, based on a weak light-source in the top-right of the image. I&#8217;ve repainted the hair to look more natural and I&#8217;ve redone some of the line art. I&#8217;ve also changed the lettering to the Doom font, through a little plugin I found <a href="http://fontmeme.com/doom-font/" target="_blank">here</a>.
+[<img class="alignright size-medium wp-image-251" alt="Boktai of Doom WIP 2" src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-of-doom-v3-259x300.jpg" width="259" height="300" />][1]Slowly but surely my Doom cover-style Boktai drawing is coming along. I've added more shading, based on a weak light-source in the top-right of the image. I've repainted the hair to look more natural and I've redone some of the line art. I've also changed the lettering to the Doom font, through a little plugin I found <a href="http://fontmeme.com/doom-font/" target="_blank">here</a>.
 
 <!--more More after the break!-->
 

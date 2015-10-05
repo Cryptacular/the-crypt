@@ -8,13 +8,13 @@ categories:
 ---
 [<img class="aligncenter size-medium wp-image-234" alt="Boktai of Doom WIP" src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-of-doom-v2-259x300.jpg" width="259" height="300" />][1]
 
-[<img class="alignright size-medium wp-image-232" alt="Boktai cartridge" src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-300x226.jpg" width="300" height="226" />][2]A little while ago I looked through my old GBA games and started playing Boktai: Solar Boy Django again. For those who don&#8217;t know the game (I&#8217;m not actually sure how well-known it was!) it&#8217;s a stealth-action game where you use the power of the sun against the undead. The cool thing about the game however, is that the game cartridge has a solar cell on it that measured the intensity of the sun, which directly affects an energy bar in-game. The sun is basically your ammunition, getting players to play games outside!
+[<img class="alignright size-medium wp-image-232" alt="Boktai cartridge" src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-300x226.jpg" width="300" height="226" />][2]A little while ago I looked through my old GBA games and started playing Boktai: Solar Boy Django again. For those who don't know the game (I'm not actually sure how well-known it was!) it's a stealth-action game where you use the power of the sun against the undead. The cool thing about the game however, is that the game cartridge has a solar cell on it that measured the intensity of the sun, which directly affects an energy bar in-game. The sun is basically your ammunition, getting players to play games outside!
 
 More after the break.
 
 <!--more-->
 
-[<img class="alignleft size-thumbnail wp-image-233" alt="Doom cover" src="{{ site.baseurl }}/img/wp-uploads/2014/02/doom-cover-150x150.jpg" width="150" height="150" />][3]Anyways, so I started playing this game again and I remembered how much I loved it. I also noticed how well it holds up today with its stealth mechanics. I decided I&#8217;d start a drawing of the main character Django in my own style. I also thought it would be cool to imitate the original Doom game cover, so Django is in a similar pose.
+[<img class="alignleft size-thumbnail wp-image-233" alt="Doom cover" src="{{ site.baseurl }}/img/wp-uploads/2014/02/doom-cover-150x150.jpg" width="150" height="150" />][3]Anyways, so I started playing this game again and I remembered how much I loved it. I also noticed how well it holds up today with its stealth mechanics. I decided I'd start a drawing of the main character Django in my own style. I also thought it would be cool to imitate the original Doom game cover, so Django is in a similar pose.
 
 I am also planning on redrawing the Boktai logo in the Doom style of lettering.
 

@@ -10,7 +10,7 @@ image: "/img/wp-uploads/2014/10/invader-ziltoid-web.jpg"
 ---
 Invader Ziltoid is a mashup of the animated show Invader Zim and a concept album by metalman legend Devin Townsend called Ziltoid the Omniscient.
 
-Both are about an alien invading earth, but the former is sent to destroy it, whereas the latter comes to earth and demands the ultimate cup of coffee. When the coffee he receives is sub-par, he vows to destroy the earth. So they&#8217;re sufficiently similar, but decently different.
+Both are about an alien invading earth, but the former is sent to destroy it, whereas the latter comes to earth and demands the ultimate cup of coffee. When the coffee he receives is sub-par, he vows to destroy the earth. So they're sufficiently similar, but decently different.
 
 EDIT: T-Shirts are now available in Mens and Womens styles in a range of sizes and colours! Check them out below:
 

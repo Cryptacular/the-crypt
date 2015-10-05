@@ -7,7 +7,7 @@ categories:
   - Animation Appreciation
   - Blog
 ---
-*As a planetary storm approaches, a lone shaman manages to avoid disaster.* That&#8217;s the description of this incredible short film, animated by <a href="http://animalcolm.com/" target="_blank">Malcolm Sutherland</a>. It&#8217;s called &#8216;StormJumper&#8217;. You need to watch it.
+*As a planetary storm approaches, a lone shaman manages to avoid disaster.* That's the description of this incredible short film, animated by <a href="http://animalcolm.com/" target="_blank">Malcolm Sutherland</a>. It's called &#8216;StormJumper'. You need to watch it.
 
 
 

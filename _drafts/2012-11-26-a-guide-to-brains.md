@@ -7,6 +7,6 @@ categories:
   - Vector
 format: image
 ---
-For those of us craving a nice brain salad or perhaps some crispy battered cerebellum, here&#8217;s a guide to brains.
+For those of us craving a nice brain salad or perhaps some crispy battered cerebellum, here's a guide to brains.
 
 Created in Illustrator.

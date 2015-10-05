@@ -9,7 +9,7 @@ categories:
 ---
 As a big fan of T-shirt designs on <a href="http://www.teefury.com/" target="_blank">Teefury</a> and all the mashups between different IPs (games, movies, TV shows, etc), I got my very own idea for a mashup! It is something I would love to make into a T-shirt design and submit it to <a href="http://www.teefury.com/" target="_blank">Teefury</a> or <a href="https://www.threadless.com/" target="_blank">Threadless</a> or what have you.
 
-Here&#8217;s a bit of a teaser ;)
+Here's a bit of a teaser ;)
 
 <blockquote class="twitter-tweet" width="550">
   <p lang="en" dir="ltr">

@@ -7,6 +7,6 @@ categories:
   - Illustration
 format: image
 ---
-He&#8217;s the most badass rapper in the world of fruit and vegetable farming.
+He's the most badass rapper in the world of fruit and vegetable farming.
 
 Drawn and coloured in Photoshop.

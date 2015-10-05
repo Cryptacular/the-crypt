@@ -7,7 +7,7 @@ categories:
   - Blog
   - Personal Work
 ---
-Quick update: I masked out the background, plus I added a layout sketch over the top, to show the elements I&#8217;d like to add next: some enemies from the game and Otenko, his mentor.
+Quick update: I masked out the background, plus I added a layout sketch over the top, to show the elements I'd like to add next: some enemies from the game and Otenko, his mentor.
 
 <blockquote class="twitter-tweet" width="550">
   <p lang="en" dir="ltr">
