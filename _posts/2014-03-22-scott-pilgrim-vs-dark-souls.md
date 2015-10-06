@@ -2,13 +2,12 @@
 title: Scott Pilgrim vs. Dark Souls
 author: admin
 layout: post
-permalink: /blog/portfolio/2d/illustration/scott-pilgrim-vs-dark-souls/
 categories:
   - Illustration
   - Vector
-format: image
+image: "/img/wp-uploads/2014/03/final-small.jpg"
 ---
-It's mashup time! As I [teased a few days ago][1], I've been working on a T-shirt design this week. I can now reveal that it's a mashup between Scott Pilgrim and Dark Souls.
+It's mashup time! As I [teased a few days ago]({{ site.baseurl }}/blog/personal%20work/2014/03/20/drawing-progress-mashup-time/), I've been working on a T-shirt design this week. I can now reveal that it's a mashup between Scott Pilgrim and Dark Souls.
 
 As it is a mashup of a movie (based on a comic) and a video game, I realise that not everybody will get this reference, so let me explain:
 
