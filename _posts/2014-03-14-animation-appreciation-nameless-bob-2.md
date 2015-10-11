@@ -2,14 +2,13 @@
 title: 'Animation Appreciation: Nameless Bob 2'
 author: admin
 layout: post
-permalink: /blog/blog/animation-appreciation-nameless-bob-2/
 categories:
   - Animation Appreciation
-  - Blog
 ---
+
 This excellent bit of 2D animation is the second one in a series. Great work!
 
-<span class='embed-youtube' style='text-align:center; display: block;'></span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yszkSXIlYBs" frameborder="0" allowfullscreen></iframe>
 
 (<a href="https://www.youtube.com/watch?v=yszkSXIlYBs#t=85" target="_blank">Watch it on YouTube</a>)
 
