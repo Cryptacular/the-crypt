@@ -7,11 +7,9 @@ title: Portfolio, blog and contact details for Nick Mertens
 
 I'm Nick Mertens, nice to meet you. I'm a front end developer, web designer, email marketing specialist and illustrator.
 
-I like to do lots of things and do them well, so if you need something done, give me a buzz! I might well be able to help, or know someone who does.
+I like to do lots of things and do them well, so if you need something done, give me a buzz! I might be able to help, or know someone who will.
 
-Feel free to peruse the links below at your leisure and make sure to make a note of my contact details.
-
-I'm also on Patreon, where I accept small donations in return for a sneak peek into my art process, with the main goal of improving my art! <a href="https://www.patreon.com/nickmertens" target="_blank">Click here to view my Patreon page!</a>
+Feel free to peruse the links below at your leisure and be sure to make a note of my contact details.
 
 <div>
     <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
