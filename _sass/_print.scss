@@ -1,10 +1,15 @@
 @media print {
-	header, .main-nav {
+	// Hide header, main navigation, SumoMe elements
+	header, .main-nav, .sumome-ga-hud, .sumome-control {
 		display: none;
 	}
 
 	.main-links .grid__item {
 		display: block;
 		width: 100%;
+	}
+
+	footer, section {
+		text-align: left;
 	}
 }
