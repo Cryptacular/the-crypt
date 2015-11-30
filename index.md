@@ -15,7 +15,7 @@ Feel free to peruse the links below at your leisure and be sure to make a note o
     <p class="fsh align-centre mbn mtn"><i class="icon-emo-coffee"></i></p>
     <p class="cursive align-right fsl">- Nick Mertens</p>
 </div>
-<div class="grid">
+<div class="grid main-links">
     <div class="grid__item one-quarter palm--one-half align-centre">
         <h2><a href="{{ site.baseurl }}/blog/" class="icon-feather">Blog &amp; Portfolio</a></h2>
     </div><!--

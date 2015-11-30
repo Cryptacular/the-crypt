@@ -1,0 +1,10 @@
+@media print {
+	header, .main-nav {
+		display: none;
+	}
+
+	.main-links .grid__item {
+		display: block;
+		width: 100%;
+	}
+}
