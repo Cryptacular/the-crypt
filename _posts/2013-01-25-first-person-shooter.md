@@ -1,15 +1,13 @@
 ---
 title: First Person Shooter
-author: admin
 layout: post
-permalink: /blog/portfolio/3d/animation/first-person-shooter/
 categories:
-  - Animation
-  - Modelling
-  - Texturing
-format: image
+  - animation
+  - 3D modelling
+  - texturing
+image: "/img/blog/super-city/super-city.jpg"
 ---
-(To see the full HD clip, <a href="http://vimeo.com/58088005" target="_blank">click here</a>)
+(To see the full HD clip, [click here](http://vimeo.com/58088005))
 
 This short video was made for a New Zealand tv show, where the two main characters are playing a video game. The episode aired in 2013.
 

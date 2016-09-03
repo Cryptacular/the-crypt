@@ -1,6 +1,9 @@
 @media print {
-	// Hide header, main navigation, SumoMe elements
-	header, .main-nav, .sumome-ga-hud, .sumome-control {
+	.no-print {
+		display: none;
+	}
+
+	header, footer, .main-nav, .sumome-ga-hud, .sumome-control {
 		display: none;
 	}
 
