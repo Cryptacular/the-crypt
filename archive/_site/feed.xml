@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Crypt</title>
+    <description>Blog and portfolio of Nick Mertens, with contact details and links to several social media accounts.
+</description>
+    <link>http://thecrypt.co.nz/</link>
+    <atom:link href="http://thecrypt.co.nz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Sep 2016 16:47:37 +1200</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 16:47:37 +1200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hey Niko! Niko?</title>
+        <description>&lt;p&gt;Recently I’ve been doing a lot of reading about the responsibilities of a Scrum Master. As I &lt;a href=&quot;https://medium.com/@Cryptacular/junior-dev-hour-the-origin-story-ebe1e75141e9#.au179wg54&quot;&gt;mentioned in my last post&lt;/a&gt;, I’m still pretty new at this stuff.&lt;/p&gt;
+
+&lt;p&gt;Falling through a myriad of rabbit holes, metaphorically speaking, and going through &lt;a href=&quot;http://agiletrail.com/2011/11/14/42-tasks-for-a-scrum-masters-job/&quot;&gt;this massive list of Scrum Master tasks&lt;/a&gt;, I eventually ended up on &lt;a href=&quot;http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/&quot;&gt;this article about Niko Niko calendars&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I had personally never heard about them, though I don’t doubt they’re pretty common in Agile environments. At a basic level, they’re a way for you and your team to record their daily moods.&lt;/p&gt;
+
+&lt;p&gt;As our team uses Slack fairly regularly for conversations, I set up a simple poll with the question at hand (“How was your day?”) and 5 options: a range of emojis from “Great!” to “Awful! I want to go home”. This is my poll stub:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+/poll “How was your day today? Feel free to add a comment as well.” “:smile: Great!” “:slightly_smiling_face: Pretty good” “:confused: Average / confused” “:disappointed: Bad” “:anguished: Awful! I want to go home”
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;At first glance this might sound a little pointless, as you can usually tell how someone’s feeling right? Wrong. I’ve been putting this technique to use for about a week now and I’ve been very surprised by the outcomes. I won’t go into anyone’s actual feelings, as this is of course confidential, but we’ve already identified a pain point focused around an third-party vendor.&lt;/p&gt;
+
+&lt;p&gt;I’ve implemented the calendar a little differently to what the article describes. They suggest you print out or draw a grid with dates and let each team member write down their mood. However, I’m not so sure if this is the best approach. I understand that Scrum is all about transparency, but I believe some people just won’t express their true feelings if it’s displayed in front of everyone else.&lt;/p&gt;
+
+&lt;p&gt;So, instead I’ve set up a Google Sheets document with dates, team members and predefined mood options, plus some statistics on average, lowest and highest moods. It’ll be interesting to see the long-term results!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’ve set up a sample (empty) doc if you’re interested in using it. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xngmaHEbWhjiPp6obMxMqd-r8sqiIzv23UyUuv2M0ek/edit?usp=sharing&quot;&gt;Click here to open in Google Drive&lt;/a&gt; :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jul 2016 00:00:00 +1200</pubDate>
+        <link>http://thecrypt.co.nz/blog/work/scrum-master/2016/07/24/hey-niko-niko/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/work/scrum-master/2016/07/24/hey-niko-niko/</guid>
+        
+        
+        <category>work</category>
+        
+        <category>scrum-master</category>
+        
+      </item>
+    
+      <item>
+        <title>Junior Dev Hour: The Origin Story</title>
+        <description>&lt;p&gt;I’m a Junior Software Developer Slash Scrum Master. Only two of those words are actually in my job title, but that’s basically what I do.&lt;/p&gt;
+
+&lt;p&gt;I started this journey in a very different place. My first job outside retail was at a small email marketing agency called Spike. I had some HTML experience already, though minimal email coding experience, which turned out to be a whole different beast. They took me under their wing, however, and soon I had a firm grip of coding for email.&lt;/p&gt;
+
+&lt;p&gt;I moved on to a hybrid role of about 60% email marketing and 40% front end development at a creative agency called Image Centre Group, now known simply as ICG. I was introduced to the wonders of JavaScript and circled around the strange world of backend development. Communication skills skyrocketed as I was in hot demand throughout the business, being the sole person looking after email marketing for about 40 clients.&lt;/p&gt;
+
+&lt;p&gt;A brief reprieve at a car rental company, where miscommunication led to a role misadvertised. We won’t talk about this lapse in judgement on both sides.&lt;/p&gt;
+
+&lt;p&gt;Then I joined the ranks of software developers at Fisher &amp;amp; Paykel Healthcare and my little monkey brain just about exploded. I was thrown into the deep end of C# backend development, JavaScript development using Kendo, unit testing, Agile and more specifically Scrum. I am surrounded by people who have learned a great deal over the years, who are willing to share this knowledge, and who are still thirsting for more knowledge. And to top it all off, I put up my hand to be a Scrum Master during my first or second month, a decision made very much in the moment, mostly because I wanted to be proactive and try something new. It’s a decision that has affected my time at this company a great deal, but I believe it has only been positive.&lt;/p&gt;
+
+&lt;p&gt;Coming from a background of mostly waterfall management, Scrum was certainly eye opening to me. I’m not going to pretend I’m suddenly a guru on all things Agile, but I’m learning quickly, and I would like to share this learning journey with you, o’ reader who has made it this far down the article!&lt;/p&gt;
+
+&lt;p&gt;The last week or two have been especially crucial. My manager and I went to a local meetup about Agile basics and mingled a little afterwards with some of the other attendees. Something that really resonated with me during the presentation is that Scrum in particular is brutally honest. It’s all about transparency and making decisions around impediments, issues, and making sure things go as smoothly as possible.&lt;/p&gt;
+
+&lt;p&gt;Just the other day I met up with a fellow Scrum Master in the company, who led me through some of his recurring responsibilities and activities. There is of course the facilitating of Scrum ceremonies — sprint planning, sprint review, sprint retrospective — and making sure stand up happens every morning, but there’s much more to it than I initially realised.&lt;/p&gt;
+
+&lt;p&gt;A big part of your job as Scrum Master comes down to looking after your team. Not in the way a project manager might, but more like a good friend. You look out for them, try and mediate conflicts, remove any obstacles the team might run into, be a first point of contact for people outside the team, and so on. Because you are not a manager, you’re part of the team. Especially when you’re half Scrum Master, half developer like me.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As I mentioned at the start of this article, I’m a Junior Dev and a Junior Scrum Master, so I’m looking for any opportunities to improve. What has your experience been with Scrum? What have you appreciated in a Scrum Master, or what did you wish they did? What about those of you who have been in the role of Scrum Master yourselves, what have your experiences been like? Let me know in the comments below!&lt;/p&gt;
+
+&lt;p&gt;Until next time.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Jul 2016 00:00:00 +1200</pubDate>
+        <link>http://thecrypt.co.nz/blog/work/scrum-master/agile/2016/07/17/junior-dev-hour/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/work/scrum-master/agile/2016/07/17/junior-dev-hour/</guid>
+        
+        
+        <category>work</category>
+        
+        <category>scrum-master</category>
+        
+        <category>agile</category>
+        
+      </item>
+    
+      <item>
+        <title>Rocco Douglas</title>
+        <description>&lt;p&gt;A few weeks ago, a good friend of mine decided to start his own marketing company, aimed at helping the little guy achieve big things, having some fun and making a great impression along the way.&lt;/p&gt;
+
+&lt;p&gt;He asked me to create a logo for Rocco Douglas, and when he gave me his logo pitch, it turned out we had already been thinking along the same lines!&lt;/p&gt;
+
+&lt;p&gt;After a few iterations, we came up with the version so here today. The main version is up above as the featured image and this has a blackboard-like texture, so will suit most digital media. For print, large format and dark backgrounds, I created the versions below.&lt;/p&gt;
+
+&lt;p&gt;For more information or if you are interested in getting real honest marketing, &lt;a href=&quot;http://roccodouglas.com&quot;&gt;check out Rocco Douglas here&lt;/a&gt;!&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/img/blog/rocco-douglas/rocco-douglas-logo-dark.png&quot; alt=&quot;Base colour version&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/img/blog/rocco-douglas/rocco-douglas-logo-reverse.png&quot; alt=&quot;Reverse version&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 07 Jul 2016 00:00:00 +1200</pubDate>
+        <link>http://thecrypt.co.nz/blog/work/logo%20design/2016/07/07/rocco-douglas/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/work/logo%20design/2016/07/07/rocco-douglas/</guid>
+        
+        
+        <category>work</category>
+        
+        <category>logo design</category>
+        
+      </item>
+    
+      <item>
+        <title>Wolf Dance</title>
+        <description>&lt;p&gt;This is the Wolf Dance. It is inspired by a short story that a good friend of mine is working on. The idea is that the girl summoned the wolf spirit for her protection by dancing.&lt;/p&gt;
+
+&lt;p&gt;There are some links between the girl and the wolf, the most obvious of which is that their eyes are glowing in the same way. The girl is also wearing a necklace with glowing eyes, and there is a glowing wolf symbol on her hand.&lt;/p&gt;
+
+&lt;p&gt;She wears a blindfold because she is in complete control of the wolf, and maybe even needs it for focus.&lt;/p&gt;
+
+&lt;p&gt;It started off as the following sketch:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/wolf-dance/wolf-dance-wip.jpg&quot; alt=&quot;Wolf Dance WIP&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 +1300</pubDate>
+        <link>http://thecrypt.co.nz/blog/work/illustration/2015/11/15/wolf-dance/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/work/illustration/2015/11/15/wolf-dance/</guid>
+        
+        
+        <category>work</category>
+        
+        <category>illustration</category>
+        
+      </item>
+    
+      <item>
+        <title>Oceania Career Academy Email Template</title>
+        <description>&lt;p&gt;Oceania Career Academy is a career programme that’s still in development. They have partnered with The Fono and it has been set up to upskill students in various trades.&lt;/p&gt;
+
+&lt;p&gt;Based on a previous website design by &lt;a href=&quot;http://farbeyond.co.nz&quot;&gt;Far Beyond Creative&lt;/a&gt;, I created this design for their email newsletter. It includes multiple different sections and layouts the client can pick and choose from.&lt;/p&gt;
+
+&lt;p&gt;Once signed off, I built the email from the ground up for &lt;a href=&quot;http://mailchimp.com/&quot;&gt;MailChimp&lt;/a&gt;. It allows the user to create a new campaign and start adding different sections as they see fit. Almost all images and text blocks are editable.&lt;/p&gt;
+
+&lt;p&gt;The design is also mobile responsive. You can compare the desktop and mobile versions here:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/oca/mailchimp-desktop-mobile.png&quot; alt=&quot;Desktop vs. Mobile&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See the announcement of Oceania Career Academy on &lt;a href=&quot;http://www.thefono.org/services-fees/education/oceania-career-academy/&quot;&gt;The Fono website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 00:00:00 +1300</pubDate>
+        <link>http://thecrypt.co.nz/blog/work/email%20marketing/2015/10/07/oceania-career-academy/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/work/email%20marketing/2015/10/07/oceania-career-academy/</guid>
+        
+        
+        <category>work</category>
+        
+        <category>email marketing</category>
+        
+      </item>
+    
+      <item>
+        <title>The new website is REAL!</title>
+        <description>&lt;p&gt;Hi everyone! If you’ve seen my website before, you might notice it has changed a lot!&lt;/p&gt;
+
+&lt;p&gt;My previous site was built on WordPress, adapted from an existing theme. However, I was never entirely happy with it, plus WordPress is a bit bloaty. Aside from that, I felt a refresh in design was due as well!&lt;/p&gt;
+
+&lt;p&gt;So, I’ve decided to go with &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;! It’s basically a CMS for developers, but without the conventional CMS. It works with a Ruby gem installed on your local machine (or server if you have access to it via ssh) and you upload the files it generates via FTP.&lt;/p&gt;
+
+&lt;p&gt;It gives you much more freedom as a developer to tweak your site and add and update templates, all without a slow, bulky CMS. It’s great!&lt;/p&gt;
+
+&lt;p&gt;On that note, though, I’ve had to export all my previous posts from WordPress and convert them to Markdown format. The brunt of the work was done via a plugin, but most posts still need some cleaning up. So, for now this blog will be a little empty, but I will start adding them back in over the next little while.&lt;/p&gt;
+
+&lt;p&gt;For the time being, you can see most of my portfolio on my &lt;a href=&quot;http://behance.net/nickmertens/&quot;&gt;Behance&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;New features, projects and more will all be posted here so keep an eye out :)&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Oct 2015 00:00:00 +1300</pubDate>
+        <link>http://thecrypt.co.nz/blog/updates/2015/10/04/new-website/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/updates/2015/10/04/new-website/</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>The Baby Bag</title>
+        <description>&lt;h2 id=&quot;website-development&quot;&gt;Website Development&lt;/h2&gt;
+
+&lt;p&gt;The Baby Bag is a concept created by Jessie Jarvie and she hired the agency Image Centre Group to make it a reality for her. It was designed in-house and then given to me for the front-end development.&lt;br /&gt;
+The e-commerce store is built on the Shopify platform and was loosely based on an existing theme and customised from there.&lt;br /&gt;
+One of the main challenges with this website was the recurring payment system. Customers have the option to get a certain selection of products delivered to their door every so many weeks, as per their choosing. However, in order to accept these recurring payments via credit cards, we had to use an existing plugin, which connected to a number of services.&lt;/p&gt;
+
+&lt;p&gt;However, only one of these services was available in New Zealand: BrainTree. To make matters worse, the service had only just launched here, so it was still in beta and we were advised we were the first clients to use it. This being both exciting and scary, we got stuck in and made it work.&lt;/p&gt;
+
+&lt;p&gt;You can visit the site here: &lt;a href=&quot;http://thebabybag.co.nz&quot; target=&quot;_blank&quot;&gt;thebabybag.co.nz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;See below for a screenshot of the final website:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-446&quot; alt=&quot;The Baby Bag&quot; src=&quot;/img/wp-uploads/2015/09/The-Baby-Bag.png&quot; width=&quot;1270&quot; height=&quot;4239&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 00:00:00 +1200</pubDate>
+        <link>http://thecrypt.co.nz/blog/development/portfolio%20(all)/web/2015/09/24/baby-bag/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/development/portfolio%20(all)/web/2015/09/24/baby-bag/</guid>
+        
+        
+        <category>development</category>
+        
+        <category>portfolio (all)</category>
+        
+        <category>web</category>
+        
+      </item>
+    
+      <item>
+        <title>AIM Design &amp;amp; Development</title>
+        <description>&lt;h2 id=&quot;website-design-and-development-in-wordpress&quot;&gt;Website Design and Development in WordPress&lt;/h2&gt;
+
+&lt;p&gt;Working closely with the client, I designed this one-page scrolling website with parallax images.&lt;/p&gt;
+
+&lt;p&gt;Then, after a few iterations and final approval, I worked on the front end development through WordPress. See below wireframes and final designs.&lt;/p&gt;
+
+&lt;p&gt;You can visit the website here: &lt;a href=&quot;http://assetim.com.au&quot; target=&quot;_blank&quot;&gt;assetim.com.au&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;View the wireframe &amp;amp; final design below:&lt;/p&gt;
+
+&lt;div data-featherlight-gallery=&quot;&quot; data-featherlight-filter=&quot;a&quot; class=&quot;gallery align-centre&quot;&gt;
+	&lt;a href=&quot;/img/wp-uploads/2015/09/wireframe-v1.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-443&quot; alt=&quot;AIM Wireframe&quot; src=&quot;/img/wp-uploads/2015/09/wireframe-v1-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/img/wp-uploads/2015/09/mockup-v3.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-442&quot; alt=&quot;AIM Final Mockup&quot; src=&quot;/img/wp-uploads/2015/09/mockup-v3-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;
+
+&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 00:00:00 +1200</pubDate>
+        <link>http://thecrypt.co.nz/blog/design/development/portfolio%20(all)/web/2015/09/24/aim-design-development/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/design/development/portfolio%20(all)/web/2015/09/24/aim-design-development/</guid>
+        
+        
+        <category>design</category>
+        
+        <category>development</category>
+        
+        <category>portfolio (all)</category>
+        
+        <category>web</category>
+        
+      </item>
+    
+      <item>
+        <title>One Pissed Parrot</title>
+        <description>&lt;p&gt;This is one pissed parrot. Why is he pissed? It might have something to do with those feathers there.&lt;/p&gt;
+
+&lt;p&gt;It all started with a few quick sketches, before settling on this one. As you can see in the progress shots below, I started by adding local colours (the base colour of a material not in light or shadow), then shadows, highlights, bounce light, a secondary light source, texture, background and lastly, depth of field.&lt;/p&gt;
+
+&lt;p&gt;Hope you like it! Make sure to follow me on &lt;a href=&quot;https://twitter.com/Cryptacular&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;http://instagram.com/creationsfromthecrypt/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt; for more art updates :)&lt;/p&gt;
+
+&lt;div data-featherlight-gallery=&quot;&quot; data-featherlight-filter=&quot;a&quot; class=&quot;gallery align-centre&quot;&gt;
+	&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-01.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-417&quot; alt=&quot;parrot-stage-01&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-01-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-02.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-418&quot; alt=&quot;parrot-stage-02&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-02-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-03.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-419&quot; alt=&quot;parrot-stage-03&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-03-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-04.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-420&quot; alt=&quot;parrot-stage-04&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-04-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-05.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-421&quot; alt=&quot;parrot-stage-05&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-05-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-06.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-422&quot; alt=&quot;parrot-stage-06&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-06-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-07.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-423&quot; alt=&quot;parrot-stage-07&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-07-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-stage-08.jpg&quot;&gt;&lt;img class=&quot;alignnone size-thumbnail wp-image-424&quot; alt=&quot;parrot-stage-08&quot; src=&quot;/img/wp-uploads/2014/12/parrot-stage-08-150x150.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;/img/wp-uploads/2014/12/parrot-512.jpg&quot;&gt;&lt;img src=&quot;/img/wp-uploads/2014/12/parrot-512-150x150.jpg&quot; alt=&quot;parrot-512&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignnone size-thumbnail wp-image-416&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 21 Dec 2014 00:00:00 +1300</pubDate>
+        <link>http://thecrypt.co.nz/blog/illustration/2014/12/21/one-pissed-parrot/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/illustration/2014/12/21/one-pissed-parrot/</guid>
+        
+        
+        <category>illustration</category>
+        
+      </item>
+    
+      <item>
+        <title>Invader Ziltoid T-Shirts now available</title>
+        <description>&lt;p&gt;As of today, you can get your very own &lt;a href=&quot;http://thecrypt.co.nz/category/portfolio/invader-ziltoid/&quot; title=&quot;Invader Ziltoid&quot;&gt;Invader Ziltoid&lt;/a&gt; shirt! Available in Mens and Womens styles in a range of sizes and colours! Check them out below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thecrypt.printmighty.co.nz/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/wp-uploads/2014/10/invader-ziltoid-shirt-mens-150x150.jpg&quot; alt=&quot;invader-ziltoid-shirt-mens&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignnone size-thumbnail wp-image-399&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://thecrypt.printmighty.co.nz/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/wp-uploads/2014/10/invader-ziltoid-shirt-womens-150x150.jpg&quot; alt=&quot;invader-ziltoid-shirt-womens&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignnone size-thumbnail wp-image-400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While you’re there, make sure to &lt;a href=&quot;https://thecrypt.printmighty.co.nz/&quot; target=&quot;_blank&quot;&gt;check out my other shirts too&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Oct 2014 00:00:00 +1300</pubDate>
+        <link>http://thecrypt.co.nz/blog/personal%20work/2014/10/07/invader-ziltoid-t-shirts-now-available/</link>
+        <guid isPermaLink="true">http://thecrypt.co.nz/blog/personal%20work/2014/10/07/invader-ziltoid-t-shirts-now-available/</guid>
+        
+        
+        <category>personal work</category>
+        
+      </item>
+    
+  </channel>
+</rss>

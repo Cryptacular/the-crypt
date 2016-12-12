@@ -1,0 +1,27 @@
+{
+  "name": "the-crypt",
+  "author": {
+    "name": "Nick Mertens",
+    "email": "nick@thecrypt.co.nz",
+    "url": "http://thecrypt.co.nz"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cryptacular/the-crypt.git"
+  },
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
