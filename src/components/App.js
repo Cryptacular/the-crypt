@@ -14,13 +14,19 @@ class App extends Component {
         </header>
         <div className="u-flexbox-container">
           <div className="u-flexbox-column--third">
-            <Info />
+            <div className="cr-section">
+              <Info />
+            </div>
           </div>
           <div className="u-flexbox-column--third">
-            <Chat />
+            <div className="cr-section">
+              <Chat />
+            </div>
           </div>
           <div className="u-flexbox-column--third">
-            <Page />
+            <div className="cr-section">
+              <Page />
+            </div>
           </div>
         </div>
         <footer>

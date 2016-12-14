@@ -5,7 +5,8 @@ class Info extends React.Component {
     render() {
         return (
             <section className="cr-section-info">
-                <h1>Info</h1>
+                <h1>Nick Mertens</h1>
+                <img src="img/self-portrait-bg.jpg" alt="Nick Mertens" className="cr-info-portrait" />
             </section>
         )
     }
