@@ -1,3 +1,17 @@
-.cr-section {
-    background: #eee;
+.cr-header-title {
+    text-align: center;
+}
+
+.cr-app {
+    display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+    justify-content: space-between;
+}
+
+.cr-app-section {
+    box-shadow: 0 0.25em 1em rgba(0,0,0,.3);
+    padding: 2em;
+    margin: 0.675em;
+    width: 30%;
 }

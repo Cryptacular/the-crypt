@@ -9,29 +9,20 @@ class App extends Component {
   render() {
     return (
       <div>
-        <header className="cr-title">
-          <h1>Welcome to The Crypt!</h1>
+        <header className="cr-header">
+          <h1 className="cr-header-title">Welcome to The Crypt!</h1>
         </header>
-        <div className="u-flexbox-container">
-          <div className="u-flexbox-column--third">
-            <div className="cr-section">
-              <Info />
-            </div>
+        <div className="cr-app">
+          <div className="cr-app-section">
+            <Info />
           </div>
-          <div className="u-flexbox-column--third">
-            <div className="cr-section">
-              <Chat />
-            </div>
+          <div className="cr-app-section">
+            <Chat />
           </div>
-          <div className="u-flexbox-column--third">
-            <div className="cr-section">
-              <Page />
-            </div>
+          <div className="cr-app-section">
+            <Page />
           </div>
         </div>
-        <footer>
-          <p>&copy; { moment().format('YYYY') } Nick Mertens</p>
-        </footer>
       </div>
     );
   }

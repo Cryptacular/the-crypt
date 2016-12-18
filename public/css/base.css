@@ -1,0 +1,21 @@
+body {
+    font-family: 'Raleway', sans-serif; /* light: 300, regular: 400, bold: 700 */
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+}
+
+.u-text-center {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
