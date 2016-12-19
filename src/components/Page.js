@@ -4,7 +4,7 @@ import './Page.css';
 class Page extends React.Component {
     render() {
         return (
-            <section className="cr-section-page">
+            <section className={"cr-section-page " + this.props.className}>
                 <h1>Page</h1>
             </section>
         )
