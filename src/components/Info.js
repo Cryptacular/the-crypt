@@ -6,7 +6,7 @@ class Info extends React.Component {
         return (
             <section className={"cr-section-info " + this.props.className}>
                 <h1>Nick Mertens</h1>
-                <img src="img/self-portrait-bg.jpg" alt="Nick Mertens" className="cr-info-portrait" />
+                <img src="/img/self-portrait-bg.jpg" alt="Nick Mertens" className="cr-info-portrait" />
             </section>
         )
     }

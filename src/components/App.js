@@ -1,8 +1,14 @@
 import React, { Component } from 'react';
+import Router from 'react-router-component';
 import Info from './Info';
 import Chat from './Chat';
 import Page from './Page';
+import Empty from './Empty';
 import './App.css';
+
+var Locations = Router.Locations;
+var Location = Router.Location;
+var NotFound = Router.NotFound;
 
 class App extends Component {
   render() {
@@ -12,9 +18,12 @@ class App extends Component {
           <h1 className="cr-header-title">Welcome to The Crypt!</h1>
         </header>
         <div className="cr-app">
-          <Info className="cr-app-section" />
+          <Info className="cr-app-section cr-app-section--small" />
           <Chat className="cr-app-section" />
-          <Page className="cr-app-section" />
+          <Locations component={null}>
+            <Location path="/page/:pagename" handler={Page} className="cr-app-section" />
+            <NotFound handler={Empty} />
+          </Locations>
         </div>
       </div>
     );
