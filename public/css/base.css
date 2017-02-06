@@ -91,6 +91,10 @@ a:active {
     .cr-app-content {
         flex-direction: row;
     }
+
+    .cr-section-info {
+        min-width: 16em;
+    }
 }
 
 @media (min-width: 1300px) {
