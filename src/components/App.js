@@ -20,8 +20,8 @@ class App extends Component {
         <div className="cr-app">
           <Info className="cr-app-section cr-app-section--small" />
           <Chat className="cr-app-section" />
-          <Locations component={null}>
-            <Location path="/page/:pagename" handler={Page} className="cr-app-section" />
+          <Locations hash component={null}>
+            <Location path="/:pagename" handler={Page} className="cr-app-section" />
             <NotFound handler={Empty} />
           </Locations>
         </div>
