@@ -6,6 +6,7 @@ class Chat extends React.Component {
         return (
             <section className={"cr-section-chat " + this.props.className}>
                 <h1>Chat</h1>
+                <p>Coming soon...</p>
             </section>
         )
     }

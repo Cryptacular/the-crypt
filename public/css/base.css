@@ -59,7 +59,7 @@ a:active {
 .cr-app-section {
     flex-basis: 100%;
     flex-grow: 1;
-    margin: 0.675em;
+    margin: 0.675em 0;
 }
 
 .cr-app-section.cr-app-section--small {
@@ -71,6 +71,8 @@ a:active {
 }
 
 .no-js .cr-section-info {
+    margin: 0 auto;
+    max-width: 40em;
     width: 100%;
 }
 
@@ -90,6 +92,10 @@ a:active {
 
     .cr-app-content {
         flex-direction: row;
+    }
+
+    .cr-app-section {
+        margin: 0.675em;
     }
 
     .cr-section-info {

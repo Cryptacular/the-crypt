@@ -1,0 +1,8 @@
+.cr-root {
+    width: 100%;
+}
+
+.cr-section--loading {
+    display: flex;
+    align-items: center;
+}
