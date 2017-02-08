@@ -16,8 +16,26 @@ h6 {
     text-align: center;
 }
 
+.u-js-only {
+    display: none;
+}
+
+.js .u-js-only {
+    display: block;
+}
+
 footer {
     text-align: center;
+}
+
+.cr-nav-main {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.cr-nav-main li {
+    display: inline-block;
+    margin: 0 1em;
 }
 
 .cr-app {

@@ -12,15 +12,16 @@ class Page extends React.Component {
     }
 
     componentDidMount() {
-        this.getPage();
+        this.getPage(this.props.pagename);
     }
 
-    componentWillReceiveProps() {
-        this.getPage();
+    componentWillReceiveProps(nextProps) {
+        this.setState({page: null});
+        this.getPage(nextProps.pagename);
     }
 
-    getPage() {
-        fetch(`https://the-crypt-1047.firebaseio.com/page/${this.props.pagename}.json`) 
+    getPage(pageName) {
+        fetch(`https://the-crypt-1047.firebaseio.com/page/${pageName}.json`) 
             .then(result => {
                 return result.json().then(json => {
                     if (result.ok && json !== null) {
@@ -37,13 +38,12 @@ class Page extends React.Component {
             });
     }
 
-    doesPageExist(pageName) {
+    doesPageExist() {
         return this.state.page !== null;
     }
 
     render() {
-        let pageName = this.props.pagename;
-        if (this.doesPageExist(pageName)) {
+        if (this.doesPageExist()) {
             return (
                 <section className={"cr-section-page " + this.props.className}>
                     <h1>{this.state.page.title}</h1>
