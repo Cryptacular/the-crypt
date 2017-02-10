@@ -15,4 +15,4 @@ She wears a blindfold because she is in complete control of the wolf, and maybe 
 
 It started off as the following sketch:
 
-![Wolf Dance WIP]({{ site.baseurl }}/img/blog/wolf-dance/wolf-dance-wip.jpg)
+![Wolf Dance WIP](/img/blog/wolf-dance/wolf-dance-wip.jpg)

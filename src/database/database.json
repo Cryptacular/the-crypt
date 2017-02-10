@@ -1,0 +1,426 @@
+{
+  "page" : {
+    "about" : {
+      "content" : "Hi! Nice to meet you. That guy over there (&larr;) is me.\\n\\nI'm a front end developer, email marketer, designer, illustrator and 3D animator. I like to keep busy and I enjoy being creative.\\n\\nWhereas my roots lay in email marketing, my main focus is front end development. I like the balance that front end development gives between creativity and logical thinking. I'm skilled in HTML, CSS, Javascript/JQuery, SASS, Git, Django, Shopify and have worked with a bunch of CMS frameworks. I'm always learning so if you're after anything specific, let me know!\\n\\nI also completed a Diploma of 3D Animation at [Media Design School](http://www.mediadesignschool.com/) with Merit and received an Industry Award for Excellence in Texturing on my final project.\\n\\nSo, if you need anything done that fits loosely within the above categories, or you have any questions, be sure to give me a yell through the contact details below.",
+      "title" : "I am Nick Mertens"
+    },
+    "contact" : {
+      "content" : "Something along the lines of web development, design or illustration? Maybe even an email marketing template for Mailchimp, Campaign Monitor or one of the other many platforms out there? I'm always happy to help!\\n\\n* Email: [nick@thecrypt.co.nz](mailto:nick@thecrypt.co.nz)\\n* Twitter: [@Cryptacular](https://twitter.com/Cryptacular)\\n* LinkedIn: [Connect with me](https://nz.linkedin.com/pub/nick-mertens/30/998/667)",
+      "title" : "Need something done? Contact me!"
+    }
+  },
+  "post": {
+    "2012-06-27-rapsberry": {
+      "layout": "post",
+      "title": "Rapsberry",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/rapsberry/rapsberry.jpg",
+      "content": "\nHe's the most badass rapper in the world of fruit and vegetable farming.\n\nDrawn and coloured in Photoshop.\n",
+      "preview": "He's the most badass rapper in the world of fruit and vegetable …",
+      "basename": "2012-06-27-rapsberry"
+    },
+    "2012-07-11-homeless-man-in-arabia": {
+      "layout": "post",
+      "title": "Homeless Man in Arabia",
+      "categories": [
+        "3D modelling",
+        "texturing"
+      ],
+      "image": "/img/blog/homeless-man/homeless-man.jpg",
+      "content": "\n(To see the full HD clip, [click here](http://vimeo.com/45554041))\n\nThis 3D piece was created in 12 weeks. All modelling, texturing, lighting, rendering and all concept art was done by myself.\n\nThe first 4 weeks was spent on pre-production, including brainstorming, creating mood boards and producing concept art on paper and in Photoshop.\n\nThe following 8 weeks I spent on modelling, texturing and lighting the scene, as well as painting the background.\n\nI received an industry award for excellence in texturing on this project.\n\nCreated in Maya, Photoshop and After Effects.\n\n![Concept](/img/blog/homeless-man/homeless-man-concept.jpg)\n\n![Orthographic](/img/blog/homeless-man/homeless-man-ortho.jpg)\n\n![Scroll](/img/blog/homeless-man/homeless-man-scroll.jpg)\n\n![Background](/img/blog/homeless-man/homeless-man-bg.jpg)\n",
+      "preview": "(To see the full HD clip, [click here](http://vimeo.com/45554041))\n\n…",
+      "basename": "2012-07-11-homeless-man-in-arabia"
+    },
+    "2012-10-14-the-widow": {
+      "layout": "post",
+      "title": "The Widow",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/rangda/rangda.jpg",
+      "content": "\nA painting based on the Balinese demon queen Rangda.\n\nCreated in Photoshop.\n",
+      "preview": "A painting based on the Balinese demon queen Rangda.\n\nCreated in …",
+      "basename": "2012-10-14-the-widow"
+    },
+    "2012-12-25-elvis": {
+      "layout": "post",
+      "title": "Elvis",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/elvis/elvis.jpg",
+      "content": "\nThis is a drawing I did for a Christmas present for my girlfriend Olivia. The cat depicted is a caricature of her cat called Elvis, which is also why I drew him as Elvis Presley.\n\nI researched photos of Elvis Presley in order to get the clothes right. I also posed a 3D model in the position I wanted (for which I used Maya) and used this as reference for the final drawing.\n\nDrawn on paper, painted in Photoshop.\n",
+      "preview": "This is a drawing I did for a Christmas present for my girlfriend …",
+      "basename": "2012-12-25-elvis"
+    },
+    "2013-01-25-first-person-shooter": {
+      "title": "First Person Shooter",
+      "layout": "post",
+      "categories": [
+        "animation",
+        "3D modelling",
+        "texturing"
+      ],
+      "image": "/img/blog/super-city/super-city.jpg",
+      "content": "\n(To see the full HD clip, [click here](http://vimeo.com/58088005))\n\nThis short video was made for a New Zealand tv show, where the two main characters are playing a video game. The episode aired in 2013.\n\nIt was made in 14 days. Apart from the soldier models, all modelling and texturing was done by me, as well as all the animation, lighting and rendering.\n\nCreated in Maya, After Effects and Blender.\n",
+      "preview": "(To see the full HD clip, [click here](http://vimeo.com/58088005))\n\n…",
+      "basename": "2013-01-25-first-person-shooter"
+    },
+    "2013-05-13-a-nightly-habit": {
+      "layout": "post",
+      "title": "A Nightly Habit",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/nightly-habit/nightly-habit-thumbnail.jpg",
+      "content": "\nAs part of testing out my new Wacom Inkling pen, I drew this little guy.\n\nI imported the original sketch into Photoshop and added shading and colour.\n\n![Sketch](/img/blog/nightly-habit/nightly-habit-sketch.jpg)\n",
+      "preview": "As part of testing out my new Wacom Inkling pen, I drew this little …",
+      "basename": "2013-05-13-a-nightly-habit"
+    },
+    "2013-07-10-one-year": {
+      "layout": "post",
+      "title": "One Year",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/1-year-anniversary/heart.jpg",
+      "content": "\nI drew this for my one year anniversary with my girlfriend Olivia. She's amazing. ;)\n\nThe yellow umbrella is a reference to a show we were both watching religiously at the time: How I Met Your Mother. Olivia is wearing a particular shirt and pair of pants she owns in real life and the same with myself.\n\nCreated in Photoshop.\n",
+      "preview": "I drew this for my one year anniversary with my girlfriend Olivia. …",
+      "basename": "2013-07-10-one-year"
+    },
+    "2013-12-02-showreel-2013": {
+      "layout": "post",
+      "title": "Showreel 2013",
+      "categories": [
+        "animation",
+        "illustration",
+        "3D modelling",
+        "texturing"
+      ],
+      "image": "/img/blog/showreel-2013/showreel.jpg",
+      "content": "\n(To see the full HD clip, [click here](http://vimeo.com/80710732))\n\nMy most recent showreel. Password is \"*apollo*\".\n",
+      "preview": "(To see the full HD clip, [click here](http://vimeo.com/80710732))\n\n…",
+      "basename": "2013-12-02-showreel-2013"
+    },
+    "2014-02-20-drawing-progress-boktai": {
+      "layout": "post",
+      "title": "Drawing in Progress: Boktai",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/boktai/boktai-of-doom-v2.jpg",
+      "content": "\nA little while ago I looked through my old GBA games and started playing Boktai: Solar Boy Django again. For those who don't know the game (I'm not actually sure how well-known it was!) it's a stealth-action game where you use the power of the sun against the undead. The cool thing about the game however, is that the game cartridge has a solar cell on it that measured the intensity of the sun, which directly affects an energy bar in-game. The sun is basically your ammunition, getting players to play games outside!\n\n![Boktai cartridge](/img/blog/boktai/boktai-300x226.jpg)\n\nAnyways, so I started playing this game again and I remembered how much I loved it. I also noticed how well it holds up today with its stealth mechanics. I decided I'd start a drawing of the main character Django in my own style. I also thought it would be cool to imitate the original Doom game cover, so Django is in a similar pose.\n\n![Doom cover](/img/blog/boktai/doom-cover.jpg)\n\nI am also planning on redrawing the Boktai logo in the Doom style of lettering.\n\nSee below for some sketches:\n\n<blockquote class=\"twitter-tweet\" width=\"550\">\n  <p lang=\"en\" dir=\"ltr\">\n    Preview of a new drawing I'm working on. Going to be a mashup of two games <a href=\"https://twitter.com/hashtag/drawing?src=hash\">#drawing</a> <a href=\"https://twitter.com/hashtag/illustration?src=hash\">#illustration</a> <a href=\"https://twitter.com/hashtag/pencil?src=hash\">#pencil</a> <a href=\"https://twitter.com/hashtag/moleskine?src=hash\">#moleskine</a> <a href=\"http://t.co/MkRVyHZotD\">pic.twitter.com/MkRVyHZotD</a>\n  </p>\n\n  <p>\n    &mdash; Cryptacular (@Cryptacular) <a href=\"https://twitter.com/Cryptacular/status/434582926307495937\">February 15, 2014</a>\n  </p>\n</blockquote>\n\n\n\n<blockquote class=\"twitter-tweet\" width=\"550\">\n  <p lang=\"en\" dir=\"ltr\">\n    Now with lines! <a href=\"https://twitter.com/hashtag/lineart?src=hash\">#lineart</a> <a href=\"https://twitter.com/hashtag/drawing?src=hash\">#drawing</a> <a href=\"https://twitter.com/hashtag/illustration?src=hash\">#illustration</a> <a href=\"http://t.co/6V8NHgZhGw\">pic.twitter.com/6V8NHgZhGw</a>\n  </p>\n\n  <p>\n    &mdash; Cryptacular (@Cryptacular) <a href=\"https://twitter.com/Cryptacular/status/434599970428051457\">February 15, 2014</a>\n  </p>\n</blockquote>\n\n\n\n<blockquote class=\"twitter-tweet\" width=\"550\">\n  <p lang=\"en\" dir=\"ltr\">\n    Ohai there colour! Got me some new felts that I'm trying out. <a href=\"https://twitter.com/hashtag/drawing?src=hash\">#drawing</a> <a href=\"https://twitter.com/hashtag/illustration?src=hash\">#illustration</a> <a href=\"https://twitter.com/hashtag/colouring?src=hash\">#colouring</a> <a href=\"http://t.co/CVmtRoPii0\">pic.twitter.com/CVmtRoPii0</a>\n  </p>\n\n  <p>\n    &mdash; Cryptacular (@Cryptacular) <a href=\"https://twitter.com/Cryptacular/status/434617231880617984\">February 15, 2014</a>\n  </p>\n</blockquote>\n\n\n\nStay tuned for more updates as they happen.\n\n(Image credits: <a href=\"http://www.usgamer.net/articles/making-bad-hardware-design-fun-remembering-boktai\" target=\"_blank\">Boktai cartridge</a> and <a href=\"http://www.mobygames.com/game/dos/doom/cover-art/gameCoverId,3907/\" target=\"_blank\">Doom cover</a> and their respective copyrights)\n\n [1]: src=\"/img/wp-uploads/2014/02/boktai-of-doom-v2.jpg\n [2]: src=\"/img/wp-uploads/2014/02/boktai.jpg\n [3]: src=\"/img/wp-uploads/2014/02/doom-cover.jpg\n",
+      "preview": "A little while ago I looked through my old GBA games and started …",
+      "basename": "2014-02-20-drawing-progress-boktai"
+    },
+    "2014-02-27-drawing-progress-boktai-update": {
+      "layout": "post",
+      "title": "Drawing in Progress: Boktai (Update)",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/boktai-v1/boktai-of-doom-v3.jpg",
+      "content": "\nSlowly but surely my Doom cover-style Boktai drawing is coming along. I've added more shading, based on a weak light-source in the top-right of the image. I've repainted the hair to look more natural and I've redone some of the line art. I've also changed the lettering to the Doom font, through a little plugin I found [here](http://fontmeme.com/doom-font/).\n\nNext: I will add shading based on a fill light (possibly located in the middle-left of the image), shading based on a rim light (located behind Django) and I will of course add colour and texture to the \"Boktai\" text, similar to the Doom cover, and make the letters 3-dimensional.\n",
+      "preview": "Slowly but surely my Doom cover-style Boktai drawing is coming along. …",
+      "basename": "2014-02-27-drawing-progress-boktai-update"
+    },
+    "2014-03-02-animation-appreciation-stormjumper": {
+      "title": "Animation Appreciation: StormJumper",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Animation Appreciation"
+      ],
+      "image": "/img/wp-uploads/2014/03/stormjumper.jpg",
+      "content": "\n*As a planetary storm approaches, a lone shaman manages to avoid disaster.* That's the description of this incredible short film, animated by <a href=\"http://animalcolm.com/\" target=\"_blank\">Malcolm Sutherland</a>. It's called &#8216;StormJumper'. You need to watch it.\n\n(<a href=\"http://vimeo.com/84346114\" target=\"_blank\">Click here</a> to view on Vimeo)",
+      "preview": "*As a planetary storm approaches, a lone shaman manages to avoid …",
+      "basename": "2014-03-02-animation-appreciation-stormjumper"
+    },
+    "2014-03-07-drawing-progress-boktai-update-2": {
+      "layout": "post",
+      "title": "Drawing in Progress: Boktai (Update #2)",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/boktai-v2/boktai-of-doom-v5.jpg",
+      "content": "\nAnother quick update: since last time I have started working on the Doom-style lettering at the top. I've also added more lighting from different directions (fill light and rim light as I talked about in the previous post) and fixed up some of the darker bits in the light coming out of the gun.\n\nHave a look:\n\n![Boktai of Doom - Draft](/img/blog/boktai-v2/boktai-of-doom-v5-259x300.jpg)\n\nI've also started sketching out the elements I want to put around Django, including Otenko (the sunflower, his mentor) and some of the enemies and UI from the game. A photo below:\n\n![Boktai of Doom - Draft](/img/blog/boktai-v2/2014-03-06-23.07.49-2-255x300.jpg)\n\nStay tuned!\n",
+      "preview": "Another quick update: since last time I have started working on the …",
+      "basename": "2014-03-07-drawing-progress-boktai-update-2"
+    },
+    "2014-03-14-animation-appreciation-nameless-bob-2": {
+      "title": "Animation Appreciation: Nameless Bob 2",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Animation Appreciation"
+      ],
+      "content": "\n\nThis excellent bit of 2D animation is the second one in a series. Great work!\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yszkSXIlYBs\" frameborder=\"0\" allowfullscreen></iframe>\n\n(<a href=\"https://www.youtube.com/watch?v=yszkSXIlYBs#t=85\" target=\"_blank\">Watch it on YouTube</a>)\n\n(Source: <a href=\"http://www.reddit.com/r/animation/comments/20bbws/nameless_bob_2_part_of_a_series_im_working_on/\" target=\"_blank\">reddit.com</a>)",
+      "preview": "This excellent bit of 2D animation is the second one in a series. …",
+      "basename": "2014-03-14-animation-appreciation-nameless-bob-2"
+    },
+    "2014-03-14-drawing-in-progress-boktai-update-3": {
+      "layout": "post",
+      "title": "Drawing in Progress: Boktai (Update #3)",
+      "categories": [
+        "illustration"
+      ],
+      "image": "/img/blog/boktai-v3/boktai-update-3.jpg",
+      "content": "\nQuick update: I masked out the background, plus I added a layout sketch over the top, to show the elements I'd like to add next: some enemies from the game and Otenko, his mentor.\n\n<blockquote class=\"twitter-tweet\" width=\"550\">\n  <p lang=\"en\" dir=\"ltr\">\n    Boktai update, check it! <a href=\"https://twitter.com/hashtag/illustration?src=hash\">#illustration</a> <a href=\"https://twitter.com/hashtag/boktai?src=hash\">#boktai</a> <a href=\"https://twitter.com/hashtag/doom?src=hash\">#doom</a> <a href=\"http://t.co/7eFxoURPb2\">pic.twitter.com/7eFxoURPb2</a>\n  </p>\n\n  <p>\n    &mdash; Cryptacular (@Cryptacular) <a href=\"https://twitter.com/Cryptacular/status/441883118648041472\">March 7, 2014</a>\n  </p>\n</blockquote>\n",
+      "preview": "Quick update: I masked out the background, plus I added a layout …",
+      "basename": "2014-03-14-drawing-in-progress-boktai-update-3"
+    },
+    "2014-03-19-possession-of-silver-by-corey-leigh": {
+      "title": "The Possession of Silver by Corey Leigh",
+      "author": "admin",
+      "layout": "post",
+      "categories": "updates",
+      "image": "/img/wp-uploads/2014/03/silver-cover-web.jpg",
+      "content": "\n\nI'm so proud to announce that my friend Corey Leigh has written a book that I'm sure you will love! <a href=\"http://amzn.com/B00J301WIW\" target=\"_blank\">The Possession of Silver</a> is a young adult book full of pirates, treasure and a mysterious island:\n\n> Silver and his crew have stumbled upon an island, frozen in time. It’s an island littered with many a brave or foolish treasure hunter. It’s the kind of island that spooks a pirate, but certainly not Silver. He’s out for riches and nothing is going to stop him, not mutinous pirates, snooty girls, possessive captains, or ghostly apparitions.  \n> But Silver will need all his bravado to reach the treasure and to uncover the secrets of the island and he’ll have to decide, is the treasure worth his life?\n\nI've had the privilige to read a few previous versions of it as a proof reader and I can positively say it's awesome. It would be so great if you would consider spending the mere $3.99 for this piece of art and <a href=\"http://amzn.com/B00J301WIW\" target=\"_blank\">give it a try</a>!\n\nDon't forget to give it a nice rating and share share share! <a href=\"http://amzn.com/B00J301WIW\" target=\"_blank\">Click here to view it on Amazon</a>.",
+      "preview": "I'm so proud to announce that my friend Corey Leigh has written a …",
+      "basename": "2014-03-19-possession-of-silver-by-corey-leigh"
+    },
+    "2014-03-20-drawing-progress-mashup-time": {
+      "title": "Drawing in Progress: Mashup time!",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Personal Work"
+      ],
+      "content": "\nAs a big fan of T-shirt designs on <a href=\"http://www.teefury.com/\" target=\"_blank\">Teefury</a> and all the mashups between different IPs (games, movies, TV shows, etc), I got my very own idea for a mashup! It is something I would love to make into a T-shirt design and submit it to <a href=\"http://www.teefury.com/\" target=\"_blank\">Teefury</a> or <a href=\"https://www.threadless.com/\" target=\"_blank\">Threadless</a> or what have you.\n\nHere's a bit of a teaser ;)\n\n<blockquote class=\"twitter-tweet\" width=\"550\">\n  <p lang=\"en\" dir=\"ltr\">\n    Working on a new sketch! <a href=\"https://twitter.com/hashtag/illustration?src=hash\">#illustration</a> <a href=\"https://twitter.com/hashtag/mashup?src=hash\">#mashup</a>. More updates coming later! <br /><a href=\"http://t.co/bRX7m0CoBg\"><img src=\"https://pbs.twimg.com/media/Bi_nOzRCYAEbUbd.jpg\" alt=\"\" width=\"150\"></a>\n  </p>\n  \n  <p>\n    &mdash; Cryptacular (@Cryptacular) <a href=\"https://twitter.com/Cryptacular/status/445829129720438784\">March 18, 2014</a>\n  </p>\n</blockquote>\n\n\n\nKeep an eye on my <a href=\"https://twitter.com/Cryptacular\" target=\"_blank\">Twitter feed</a> for more updates.",
+      "preview": "As a big fan of T-shirt designs on <a href=\"http://www.teefury.com/\" …",
+      "basename": "2014-03-20-drawing-progress-mashup-time"
+    },
+    "2014-03-22-scott-pilgrim-vs-dark-souls": {
+      "title": "Scott Pilgrim vs. Dark Souls",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration",
+        "Vector"
+      ],
+      "image": "/img/wp-uploads/2014/03/final-small.jpg",
+      "content": "\nIt's mashup time! As I [teased a few days ago](/blog/personal%20work/2014/03/20/drawing-progress-mashup-time/), I've been working on a T-shirt design this week. I can now reveal that it's a mashup between Scott Pilgrim and Dark Souls.\n\nAs it is a mashup of a movie (based on a comic) and a video game, I realise that not everybody will get this reference, so let me explain:\n\n> In Scott Pilgrim vs. The World (the movie), Scott Pilgrim has a crush on Ramona Flowers, but before he can date her he needs to defeat her 7 evil exes. One of them is Roxie Richter, her only evil ex *girlfriend*. When they meet, she says to Scott: &#8220;Prepare to die, obviously.&#8221;\n> \n> Dark Souls is a video game, renowned for its difficulty and high probability of players' characters being killed many times over for the duration of that game. Therefore, they have adapted the tagline &#8220;Prepare To Die.&#8221;\n\nCombining both of those things, I got this! I hope you like it.\n\nI've also submitted the image to <a href=\"http://www.teefury.com/\" target=\"_blank\">TeeFury</a> so who knows, you might be able to buy the T-shirt sometime soon!\n\n [1]: http://thecrypt.co.nz/category/blog/drawing-progress-mashup-time/ \"Drawing in Progress: Mashup time!\"",
+      "preview": "It's mashup time! As I [teased a few days …",
+      "basename": "2014-03-22-scott-pilgrim-vs-dark-souls"
+    },
+    "2014-04-03-painting": {
+      "title": "This is not a painting",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Animation Appreciation"
+      ],
+      "image": "/img/wp-uploads/2014/04/3d-painting.jpg",
+      "content": "\nI'm serious. Yes, it looks pretty much identical to Benczúr Gyula's painting Buda Repossession about the recapture of Budapest from invading Ottoman forces.\n\nSo what is it? It's a 3D render. Extremely talented 3D artist Farkas Zsolt created all the 3D models in the exact same poses as shown in the original, then applied some killer textures. The end result is stunning. Make sure to watch the video below:\n\n\n\n(To view the video on Vimeo, <a href=\"http://vimeo.com/ekhobox/budavarvisszavetele\" target=\"_blank\">click here</a>)\n\n(<a href=\"http://kotaku.com/this-isnt-actually-a-classic-painting-its-a-modern-m-1554939501\" target=\"_blank\">Source</a>)",
+      "preview": "I'm serious. Yes, it looks pretty much identical to Benczúr Gyula's …",
+      "basename": "2014-04-03-painting"
+    },
+    "2014-04-15-planet-abes": {
+      "title": "Planet of the Abes",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration",
+        "Vector"
+      ],
+      "image": "/img/wp-uploads/2014/04/planet-of-the-abes-recrop-flat-small.jpg",
+      "content": "\n<img src=\"/img/wp-uploads/2014/04/pota-poster-150x150.png\" alt=\"pota-poster\" width=\"150\" height=\"150\" class=\"alignright size-thumbnail wp-image-326\" data-featherlight=\"/img/wp-uploads/2014/04/pota-poster.png\" class=\"float-right\" style=\"margin: 0 15px 15px\" />This T-shirt design illustration is based on a poster for the original movie Planet of the Apes (see the thumbnail on the right)\n\nI was limited to only 6 colours, so I decided to create it in Illustrator. Using a Wacom tablet, I recreated the major shading and swapped out the apes with *Abes*.\n\nHaving the image cropped as a rectangle (like the poster) was a bit boring, so I cropped it as a top hat, to add to the general look and feel of Abraham Lincoln.\n\nHope you like it!\n",
+      "preview": "<img src=\"/img/wp-uploads/2014/04/pota-poster-150x150.png\" …",
+      "basename": "2014-04-15-planet-abes"
+    },
+    "2014-04-21-buy-t-shirts": {
+      "title": "Buy my T-shirts!",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Personal Work"
+      ],
+      "content": "\nSeeing as I've been working on some T-shirt designs lately, I have just<a href=\"https://thecrypt.printmighty.co.nz/\" target=\"_blank\"> set up an online store</a> where you can purchase some of my designs on T-shirts -- both male and female fits in different sizes and colours.\n\nCurrently you can purchase my <a title=\"Scott Pilgrim vs. Dark Souls\" href=\"/blog/illustration/vector/2014/03/22/scott-pilgrim-vs-dark-souls/\">Scott Pilgrim vs. Dark Souls</a> shirts and my <a title=\"Planet of the Abes\" href=\"/blog/illustration/vector/2014/04/15/planet-abes/\">Planet of the Abes</a> shirts and I will add more shirts as time goes on. If you have any requests for previous designs on shirts, just let me know :)\n\n<a href=\"https://thecrypt.printmighty.co.nz/\" target=\"_blank\">Have a look here! →</a>",
+      "preview": "Seeing as I've been working on some T-shirt designs lately, I have …",
+      "basename": "2014-04-21-buy-t-shirts"
+    },
+    "2014-04-25-night-pandas": {
+      "title": "The Night Pandas",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration",
+        "Vector"
+      ],
+      "image": "/img/wp-uploads/2014/04/night-pandas-final-small.jpg",
+      "content": "\nThe Night Pandas are an illusive group of merciless pub quizzers, masters of knowledge and deception. They rarely finish in first place, because they know that it'd be too obvious and risky if they came first all the time.\n\nSo anyways, I designed this logo for my pub quiz team. I took some inspiration from Darkwing Duck. I sketched the original design in pencil, then used a Wacom tablet in Illustrator. The background was done in Photoshop.\n\nHope you like it!",
+      "preview": "The Night Pandas are an illusive group of merciless pub quizzers, …",
+      "basename": "2014-04-25-night-pandas"
+    },
+    "2014-04-26-boktai-vs-doom": {
+      "title": "Boktai vs. Doom",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration"
+      ],
+      "image": "/img/wp-uploads/2014/04/boktai-of-doom-final-small.jpg",
+      "content": "\n*Boktai of Doom* is a mash-up of the video games *Boktai: Solar Boy Django* and *Doom*. *Boktai* is about a vampire hunter who uses sunlight (captured by a solar sensor on the physical game cartridge on Gameboy Advance) as his weapon.\n\nThe image is based on a poster/cover design for *Doom* &#8211; <a href=\"/img/wp-uploads/2014/02/doom-cover.jpg\" data-featherlight=\"/img/wp-uploads/2014/02/doom-cover.jpg\">click here to view the original</a>.\n\nI started with a pencil sketch, then scanned it and brought it into Photoshop. Using a Wacom tablet and a ridiculous amount of layers I painted over the pencil sketch and added colour.\n\nI also created a Z-depth layer to simulate depth of field with the Lens Blur filter in Photoshop. See below for some progress thumbnails.\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"gallery align-left\">\n\t<a href=\"/img/wp-uploads/2014/04/sketch-01.jpg\"><img class=\"alignnone size-thumbnail wp-image-355\" alt=\"sketch-01\" src=\"/img/wp-uploads/2014/04/sketch-01-150x150.jpg\" width=\"150\" height=\"150\" /></a> <a href=\"/img/wp-uploads/2014/04/sketch-02.jpg\"><img class=\"alignnone size-thumbnail wp-image-356\" alt=\"sketch-02\" src=\"/img/wp-uploads/2014/04/sketch-02-150x150.jpg\" width=\"150\" height=\"150\" /></a> <a href=\"/img/wp-uploads/2014/04/boktai-of-doom-v2.jpg\"><img src=\"/img/wp-uploads/2014/04/boktai-of-doom-v2-150x150.jpg\" alt=\"boktai of doom v2\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-358\" /></a> <a href=\"/img/wp-uploads/2014/04/boktai-of-doom-v5.jpg\"><img src=\"/img/wp-uploads/2014/04/boktai-of-doom-v5-150x150.jpg\" alt=\"boktai of doom v5\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-359\" /> <a href=\"/img/wp-uploads/2014/04/boktai-of-doom-v6.jpg\"><img src=\"/img/wp-uploads/2014/04/boktai-of-doom-v6-150x150.jpg\" alt=\"boktai of doom v6\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-360\" /></a> <a href=\"/img/wp-uploads/2014/04/boktai-of-doom-v7b.jpg\"><img src=\"/img/wp-uploads/2014/04/boktai-of-doom-v7b-150x150.jpg\" alt=\"boktai of doom v7b\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-361\" /></a>\n</div>",
+      "preview": "*Boktai of Doom* is a mash-up of the video games *Boktai: Solar Boy …",
+      "basename": "2014-04-26-boktai-vs-doom"
+    },
+    "2014-08-28-gustavo": {
+      "title": "Gustavo",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration"
+      ],
+      "image": "/img/wp-uploads/2014/08/gustavo-small-copyright.jpg",
+      "content": "\nI'd like to present to you: Gustavo Fring from Breaking Bad. I recently watched this show from start to end and it was fantastic! As many of you know, they won a number of Emmys recently and I believe they completely deserved it.\n\nIn light of this amazing show, I've created this portrait of Gustavo Fring, owner of Los Pollos Hermanos and drug lord. He is a Chilean national, who spent some time in Mexico to get his foot in the door of the methamphetamine drug trade. Later, he founds and builds up a fast-food chain &#8211; Los Pollos Hermanos &#8211; which he uses as a curtain for his drug business.\n\nAs he spent time in Mexico and has daily contact with Mexicans, I drew the left side of this portrait in a stylised form of Mexican Day of the Dead skulls. It is also a reference to a certain episode of a certain season, which I will let you figure out so as to avoid spoilers ;)\n\nYou can get this printed on a T-shirt of your preferred size and colour at <a href=\"http://thecrypt.printmighty.co.nz/\" target=\"_blank\">my online T-shirt shop here</a>!\n\n<a href=\"http://thecrypt.printmighty.co.nz/products/gustavo\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/08/gustavo-mens-150x150.jpg\" alt=\"gustavo-mens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-379\" /></a> <a href=\"http://thecrypt.printmighty.co.nz/products/gustavo-2\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/08/gustavo-womens-150x150.jpg\" alt=\"gustavo-womens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-380\" /></a>\n\nSome progress shots:\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"mbm\">\n  <a href=\"/img/wp-uploads/2014/08/gustavo-sketch.jpg\"><img src=\"/img/wp-uploads/2014/08/gustavo-sketch-150x150.jpg\" alt=\"gustavo-sketch\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-372\" /></a> <a href=\"/img/wp-uploads/2014/08/gustavo-2.jpg\"><img src=\"/img/wp-uploads/2014/08/gustavo-2-150x150.jpg\" alt=\"gustavo-2\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-373\" /></a>\n</div>",
+      "preview": "I'd like to present to you: Gustavo Fring from Breaking Bad. I …",
+      "basename": "2014-08-28-gustavo"
+    },
+    "2014-08-29-gustavo-t-shirts": {
+      "title": "Gustavo T-shirts!",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Personal Work"
+      ],
+      "content": "\nT-shirts with my [Gustavo](/blog/illustration/2014/08/28/gustavo/) print are now available on my <a href=\"http://thecrypt.printmighty.co.nz\" target=\"_blank\">Print Mighty store</a>!\n\nThey're available in Mens and Womens styles, sizes XS to XXL, as well as a bunch of different colours, wooh!\n\nWhile you're there, check out some of my other T-shirts too :)\n\n<a href=\"http://thecrypt.printmighty.co.nz/products/gustavo\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/08/gustavo-mens-150x150.jpg\" alt=\"gustavo-mens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-379\" /></a> <a href=\"http://thecrypt.printmighty.co.nz/products/gustavo-2\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/08/gustavo-womens-150x150.jpg\" alt=\"gustavo-womens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-380\" /></a>",
+      "preview": "T-shirts with my [Gustavo](/blog/illustration/2014/08/28/gustavo/) …",
+      "basename": "2014-08-29-gustavo-t-shirts"
+    },
+    "2014-10-06-invader-ziltoid": {
+      "title": "Invader Ziltoid",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Illustration",
+        "Portfolio (All)",
+        "Vector"
+      ],
+      "image": "/img/wp-uploads/2014/10/invader-ziltoid-web.jpg",
+      "content": "\nInvader Ziltoid is a mashup of the animated show Invader Zim and a concept album by metalman legend Devin Townsend called Ziltoid the Omniscient.\n\nBoth are about an alien invading earth, but the former is sent to destroy it, whereas the latter comes to earth and demands the ultimate cup of coffee. When the coffee he receives is sub-par, he vows to destroy the earth. So they're sufficiently similar, but decently different.\n\nEDIT: T-Shirts are now available in Mens and Womens styles in a range of sizes and colours! Check them out below:\n\n<a href=\"http://thecrypt.printmighty.co.nz/\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/10/invader-ziltoid-shirt-mens-150x150.jpg\" alt=\"invader-ziltoid-shirt-mens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-399\" /></a> <a href=\"http://thecrypt.printmighty.co.nz/\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/10/invader-ziltoid-shirt-womens-150x150.jpg\" alt=\"invader-ziltoid-shirt-womens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-400\" /></a>\n\nSome progress shots:\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"mbm\">\n  <a href=\"/img/wp-uploads/2014/10/sketch.jpg\"><img src=\"/img/wp-uploads/2014/10/sketch-150x150.jpg\" alt=\"sketch\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-391\" /></a> <a href=\"/img/wp-uploads/2014/10/ink.jpg\"><img src=\"/img/wp-uploads/2014/10/ink-150x150.jpg\" alt=\"ink\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-392\" /></a> <a href=\"/img/wp-uploads/2014/10/invader-ziltoid-wip.jpg\"><img src=\"/img/wp-uploads/2014/10/invader-ziltoid-wip-150x150.jpg\" alt=\"invader-ziltoid-wip\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-394\" />\n</div>",
+      "preview": "Invader Ziltoid is a mashup of the animated show Invader Zim and a …",
+      "basename": "2014-10-06-invader-ziltoid"
+    },
+    "2014-10-07-invader-ziltoid-t-shirts-now-available": {
+      "title": "Invader Ziltoid T-Shirts now available",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Personal Work"
+      ],
+      "content": "\nAs of today, you can get your very own [Invader Ziltoid][1] shirt! Available in Mens and Womens styles in a range of sizes and colours! Check them out below:\n\n<a href=\"http://thecrypt.printmighty.co.nz/\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/10/invader-ziltoid-shirt-mens-150x150.jpg\" alt=\"invader-ziltoid-shirt-mens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-399\" /></a> <a href=\"http://thecrypt.printmighty.co.nz/\" target=\"_blank\"><img src=\"/img/wp-uploads/2014/10/invader-ziltoid-shirt-womens-150x150.jpg\" alt=\"invader-ziltoid-shirt-womens\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-400\" /></a>\n\nWhile you're there, make sure to <a href=\"https://thecrypt.printmighty.co.nz/\" target=\"_blank\">check out my other shirts too</a>.\n\n [1]: http://thecrypt.co.nz/category/portfolio/invader-ziltoid/ \"Invader Ziltoid\"",
+      "preview": "As of today, you can get your very own [Invader Ziltoid][1] shirt! …",
+      "basename": "2014-10-07-invader-ziltoid-t-shirts-now-available"
+    },
+    "2014-12-21-one-pissed-parrot": {
+      "title": "One Pissed Parrot",
+      "author": "admin",
+      "layout": "post",
+      "categories": "Illustration",
+      "image": "/img/wp-uploads/2014/12/parrot-512.jpg",
+      "content": "\nThis is one pissed parrot. Why is he pissed? It might have something to do with those feathers there.\n\nIt all started with a few quick sketches, before settling on this one. As you can see in the progress shots below, I started by adding local colours (the base colour of a material not in light or shadow), then shadows, highlights, bounce light, a secondary light source, texture, background and lastly, depth of field.\n\nHope you like it! Make sure to follow me on <a href=\"https://twitter.com/Cryptacular\" target=\"_blank\">Twitter</a> and <a href=\"http://instagram.com/creationsfromthecrypt/\" target=\"_blank\">Instagram</a> for more art updates :)\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"gallery align-centre\">\n\t<a href=\"/img/wp-uploads/2014/12/parrot-stage-01.jpg\"><img class=\"alignnone size-thumbnail wp-image-417\" alt=\"parrot-stage-01\" src=\"/img/wp-uploads/2014/12/parrot-stage-01-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-02.jpg\"><img class=\"alignnone size-thumbnail wp-image-418\" alt=\"parrot-stage-02\" src=\"/img/wp-uploads/2014/12/parrot-stage-02-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-03.jpg\"><img class=\"alignnone size-thumbnail wp-image-419\" alt=\"parrot-stage-03\" src=\"/img/wp-uploads/2014/12/parrot-stage-03-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-04.jpg\"><img class=\"alignnone size-thumbnail wp-image-420\" alt=\"parrot-stage-04\" src=\"/img/wp-uploads/2014/12/parrot-stage-04-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-05.jpg\"><img class=\"alignnone size-thumbnail wp-image-421\" alt=\"parrot-stage-05\" src=\"/img/wp-uploads/2014/12/parrot-stage-05-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-06.jpg\"><img class=\"alignnone size-thumbnail wp-image-422\" alt=\"parrot-stage-06\" src=\"/img/wp-uploads/2014/12/parrot-stage-06-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-07.jpg\"><img class=\"alignnone size-thumbnail wp-image-423\" alt=\"parrot-stage-07\" src=\"/img/wp-uploads/2014/12/parrot-stage-07-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-stage-08.jpg\"><img class=\"alignnone size-thumbnail wp-image-424\" alt=\"parrot-stage-08\" src=\"/img/wp-uploads/2014/12/parrot-stage-08-150x150.jpg\" width=\"150\" height=\"150\"></a><a href=\"/img/wp-uploads/2014/12/parrot-512.jpg\"><img src=\"/img/wp-uploads/2014/12/parrot-512-150x150.jpg\" alt=\"parrot-512\" width=\"150\" height=\"150\" class=\"alignnone size-thumbnail wp-image-416\"></a>\n</div>\n\n [1]: /img/wp-uploads/2014/12/parrot-stage-01.jpg\n [2]: /img/wp-uploads/2014/12/parrot-stage-02.jpg\n [3]: /img/wp-uploads/2014/12/parrot-stage-03.jpg\n [4]: /img/wp-uploads/2014/12/parrot-stage-04.jpg\n [5]: /img/wp-uploads/2014/12/parrot-stage-05.jpg\n [6]: /img/wp-uploads/2014/12/parrot-stage-06.jpg\n [7]: /img/wp-uploads/2014/12/parrot-stage-07.jpg\n [8]: /img/wp-uploads/2014/12/parrot-stage-08.jpg\n [9]: /img/wp-uploads/2014/12/parrot-512.jpg",
+      "preview": "This is one pissed parrot. Why is he pissed? It might have something …",
+      "basename": "2014-12-21-one-pissed-parrot"
+    },
+    "2015-09-24-aim-design-development": {
+      "title": "AIM Design &amp; Development",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Design",
+        "Development",
+        "Portfolio (All)",
+        "Web"
+      ],
+      "image": "/img/wp-uploads/2015/09/assetim-cover-image.jpg",
+      "content": "\n## Website Design and Development in WordPress\n\nWorking closely with the client, I designed this one-page scrolling website with parallax images.\n\nThen, after a few iterations and final approval, I worked on the front end development through WordPress. See below wireframes and final designs.\n\nYou can visit the website here: <a href=\"http://assetim.com.au\" target=\"_blank\">assetim.com.au</a>.\n\nView the wireframe & final design below:\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"gallery align-centre\">\n\t<a href=\"/img/wp-uploads/2015/09/wireframe-v1.jpg\"><img class=\"alignnone size-thumbnail wp-image-443\" alt=\"AIM Wireframe\" src=\"/img/wp-uploads/2015/09/wireframe-v1-150x150.jpg\" width=\"150\" height=\"150\" /></a> <a href=\"/img/wp-uploads/2015/09/mockup-v3.jpg\"><img class=\"alignnone size-thumbnail wp-image-442\" alt=\"AIM Final Mockup\" src=\"/img/wp-uploads/2015/09/mockup-v3-150x150.jpg\" width=\"150\" height=\"150\" />\n</div>",
+      "preview": "## Website Design and Development in WordPress\n\nWorking closely with …",
+      "basename": "2015-09-24-aim-design-development"
+    },
+    "2015-09-24-baby-bag": {
+      "title": "The Baby Bag",
+      "author": "admin",
+      "layout": "post",
+      "categories": [
+        "Development",
+        "Portfolio (All)",
+        "Web"
+      ],
+      "image": "/img/wp-uploads/2015/09/baby-bag-cover.jpg",
+      "content": "\n## Website Development\n\nThe Baby Bag is a concept created by Jessie Jarvie and she hired the agency Image Centre Group to make it a reality for her. It was designed in-house and then given to me for the front-end development.  \nThe e-commerce store is built on the Shopify platform and was loosely based on an existing theme and customised from there.  \nOne of the main challenges with this website was the recurring payment system. Customers have the option to get a certain selection of products delivered to their door every so many weeks, as per their choosing. However, in order to accept these recurring payments via credit cards, we had to use an existing plugin, which connected to a number of services.\n\nHowever, only one of these services was available in New Zealand: BrainTree. To make matters worse, the service had only just launched here, so it was still in beta and we were advised we were the first clients to use it. This being both exciting and scary, we got stuck in and made it work.\n\nYou can visit the site here: <a href=\"http://thebabybag.co.nz\" target=\"_blank\">thebabybag.co.nz</a>.\n\nSee below for a screenshot of the final website:\n\n<img class=\"alignnone size-full wp-image-446\" alt=\"The Baby Bag\" src=\"/img/wp-uploads/2015/09/The-Baby-Bag.png\" width=\"1270\" height=\"4239\" />",
+      "preview": "## Website Development\n\nThe Baby Bag is a concept created by Jessie …",
+      "basename": "2015-09-24-baby-bag"
+    },
+    "2015-10-04-new-website": {
+      "layout": "post",
+      "title": "The new website is REAL!",
+      "category": "updates",
+      "content": "\n\nHi everyone! If you've seen my website before, you might notice it has changed a lot!\n\nMy previous site was built on WordPress, adapted from an existing theme. However, I was never entirely happy with it, plus WordPress is a bit bloaty. Aside from that, I felt a refresh in design was due as well!\n\nSo, I've decided to go with <a href=\"http://jekyllrb.com/\" target=\"_blank\">Jekyll</a>! It's basically a CMS for developers, but without the conventional CMS. It works with a Ruby gem installed on your local machine (or server if you have access to it via ssh) and you upload the files it generates via FTP.\n\nIt gives you much more freedom as a developer to tweak your site and add and update templates, all without a slow, bulky CMS. It's great!\n\nOn that note, though, I've had to export all my previous posts from WordPress and convert them to Markdown format. The brunt of the work was done via a plugin, but most posts still need some cleaning up. So, for now this blog will be a little empty, but I will start adding them back in over the next little while.\n\nFor the time being, you can see most of my portfolio on my [Behance](http://behance.net/nickmertens/) page.\n\nNew features, projects and more will all be posted here so keep an eye out :)\n\nThanks for reading!",
+      "preview": "Hi everyone! If you've seen my website before, you might notice it …",
+      "basename": "2015-10-04-new-website"
+    },
+    "2015-10-07-oceania-career-academy": {
+      "layout": "post",
+      "title": "Oceania Career Academy Email Template",
+      "categories": [
+        "work",
+        "email marketing"
+      ],
+      "image": "/img/blog/oca/oca-preview.jpg",
+      "content": "\n\nOceania Career Academy is a career programme that's still in development. They have partnered with The Fono and it has been set up to upskill students in various trades.\n\nBased on a previous website design by [Far Beyond Creative](http://farbeyond.co.nz), I created this design for their email newsletter. It includes multiple different sections and layouts the client can pick and choose from.\n\nOnce signed off, I built the email from the ground up for [MailChimp](http://mailchimp.com/). It allows the user to create a new campaign and start adding different sections as they see fit. Almost all images and text blocks are editable.\n\nThe design is also mobile responsive. You can compare the desktop and mobile versions here:\n\n![Desktop vs. Mobile](/img/blog/oca/mailchimp-desktop-mobile.png)\n\nSee the announcement of Oceania Career Academy on [The Fono website](http://www.thefono.org/services-fees/education/oceania-career-academy/).",
+      "preview": "Oceania Career Academy is a career programme that's still in …",
+      "basename": "2015-10-07-oceania-career-academy"
+    },
+    "2015-11-15-wolf-dance": {
+      "layout": "post",
+      "title": "Wolf Dance",
+      "categories": [
+        "work",
+        "illustration"
+      ],
+      "image": "/img/blog/wolf-dance/wolf-dance-final-1024.jpg",
+      "content": "\n\nThis is the Wolf Dance. It is inspired by a short story that a good friend of mine is working on. The idea is that the girl summoned the wolf spirit for her protection by dancing.\n\nThere are some links between the girl and the wolf, the most obvious of which is that their eyes are glowing in the same way. The girl is also wearing a necklace with glowing eyes, and there is a glowing wolf symbol on her hand.\n\nShe wears a blindfold because she is in complete control of the wolf, and maybe even needs it for focus.\n\nIt started off as the following sketch:\n\n![Wolf Dance WIP](/img/blog/wolf-dance/wolf-dance-wip.jpg)",
+      "preview": "This is the Wolf Dance. It is inspired by a short story that a good …",
+      "basename": "2015-11-15-wolf-dance"
+    },
+    "2016-07-07-rocco-douglas": {
+      "layout": "post",
+      "title": "Rocco Douglas",
+      "categories": [
+        "work",
+        "logo design"
+      ],
+      "image": "/img/blog/rocco-douglas/rocco-douglas-logo-blackboard.png",
+      "content": "\n\nA few weeks ago, a good friend of mine decided to start his own marketing company, aimed at helping the little guy achieve big things, having some fun and making a great impression along the way.\n\nHe asked me to create a logo for Rocco Douglas, and when he gave me his logo pitch, it turned out we had already been thinking along the same lines!\n\nAfter a few iterations, we came up with the version so here today. The main version is up above as the featured image and this has a blackboard-like texture, so will suit most digital media. For print, large format and dark backgrounds, I created the versions below.\n\nFor more information or if you are interested in getting real honest marketing, [check out Rocco Douglas here](http://roccodouglas.com)!\n\n<div style=\"text-align: center;\" markdown=\"1\">\n![Base colour version](/img/blog/rocco-douglas/rocco-douglas-logo-dark.png)\n\n![Reverse version](/img/blog/rocco-douglas/rocco-douglas-logo-reverse.png)\n</div>\n",
+      "preview": "A few weeks ago, a good friend of mine decided to start his own …",
+      "basename": "2016-07-07-rocco-douglas"
+    },
+    "2016-07-17-junior-dev-hour": {
+      "layout": "post",
+      "title": "Junior Dev Hour: The Origin Story",
+      "categories": [
+        "work",
+        "scrum-master",
+        "agile"
+      ],
+      "image": "/img/blog/junior-dev-hour/feature.jpg",
+      "content": "\n\nI’m a Junior Software Developer Slash Scrum Master. Only two of those words are actually in my job title, but that’s basically what I do.\n\nI started this journey in a very different place. My first job outside retail was at a small email marketing agency called Spike. I had some HTML experience already, though minimal email coding experience, which turned out to be a whole different beast. They took me under their wing, however, and soon I had a firm grip of coding for email.\n\nI moved on to a hybrid role of about 60% email marketing and 40% front end development at a creative agency called Image Centre Group, now known simply as ICG. I was introduced to the wonders of JavaScript and circled around the strange world of backend development. Communication skills skyrocketed as I was in hot demand throughout the business, being the sole person looking after email marketing for about 40 clients.\n\nA brief reprieve at a car rental company, where miscommunication led to a role misadvertised. We won’t talk about this lapse in judgement on both sides.\n\nThen I joined the ranks of software developers at Fisher & Paykel Healthcare and my little monkey brain just about exploded. I was thrown into the deep end of C# backend development, JavaScript development using Kendo, unit testing, Agile and more specifically Scrum. I am surrounded by people who have learned a great deal over the years, who are willing to share this knowledge, and who are still thirsting for more knowledge. And to top it all off, I put up my hand to be a Scrum Master during my first or second month, a decision made very much in the moment, mostly because I wanted to be proactive and try something new. It’s a decision that has affected my time at this company a great deal, but I believe it has only been positive.\n\nComing from a background of mostly waterfall management, Scrum was certainly eye opening to me. I’m not going to pretend I’m suddenly a guru on all things Agile, but I’m learning quickly, and I would like to share this learning journey with you, o’ reader who has made it this far down the article!\n\nThe last week or two have been especially crucial. My manager and I went to a local meetup about Agile basics and mingled a little afterwards with some of the other attendees. Something that really resonated with me during the presentation is that Scrum in particular is brutally honest. It’s all about transparency and making decisions around impediments, issues, and making sure things go as smoothly as possible.\n\nJust the other day I met up with a fellow Scrum Master in the company, who led me through some of his recurring responsibilities and activities. There is of course the facilitating of Scrum ceremonies — sprint planning, sprint review, sprint retrospective — and making sure stand up happens every morning, but there’s much more to it than I initially realised.\n\nA big part of your job as Scrum Master comes down to looking after your team. Not in the way a project manager might, but more like a good friend. You look out for them, try and mediate conflicts, remove any obstacles the team might run into, be a first point of contact for people outside the team, and so on. Because you are not a manager, you’re part of the team. Especially when you’re half Scrum Master, half developer like me.\n\nAs I mentioned at the start of this article, I’m a Junior Dev and a Junior Scrum Master, so I’m looking for any opportunities to improve. What has your experience been with Scrum? What have you appreciated in a Scrum Master, or what did you wish they did? What about those of you who have been in the role of Scrum Master yourselves, what have your experiences been like? Let me know in the comments below!\n\nUntil next time.\n",
+      "preview": "I’m a Junior Software Developer Slash Scrum Master. Only two of those …",
+      "basename": "2016-07-17-junior-dev-hour"
+    },
+    "2016-07-24-hey-niko-niko": {
+      "layout": "post",
+      "title": "Hey Niko! Niko?",
+      "categories": [
+        "work",
+        "scrum-master"
+      ],
+      "image": "/img/blog/hey-niko-niko/feature.png",
+      "content": "\n\nRecently I’ve been doing a lot of reading about the responsibilities of a Scrum Master. As I [mentioned in my last post](https://medium.com/@Cryptacular/junior-dev-hour-the-origin-story-ebe1e75141e9#.au179wg54), I’m still pretty new at this stuff.\n\nFalling through a myriad of rabbit holes, metaphorically speaking, and going through [this massive list of Scrum Master tasks](http://agiletrail.com/2011/11/14/42-tasks-for-a-scrum-masters-job/), I eventually ended up on [this article about Niko Niko calendars](http://agiletrail.com/2011/09/12/how-to-track-the-teams-mood-with-a-niko-niko-calendar/).\n\nI had personally never heard about them, though I don’t doubt they’re pretty common in Agile environments. At a basic level, they’re a way for you and your team to record their daily moods.\n\nAs our team uses Slack fairly regularly for conversations, I set up a simple poll with the question at hand (“How was your day?”) and 5 options: a range of emojis from “Great!” to “Awful! I want to go home”. This is my poll stub:\n\n`\n/poll “How was your day today? Feel free to add a comment as well.” “:smile: Great!” “:slightly_smiling_face: Pretty good” “:confused: Average / confused” “:disappointed: Bad” “:anguished: Awful! I want to go home”\n`\n\nAt first glance this might sound a little pointless, as you can usually tell how someone’s feeling right? Wrong. I’ve been putting this technique to use for about a week now and I’ve been very surprised by the outcomes. I won’t go into anyone’s actual feelings, as this is of course confidential, but we’ve already identified a pain point focused around an third-party vendor.\n\nI’ve implemented the calendar a little differently to what the article describes. They suggest you print out or draw a grid with dates and let each team member write down their mood. However, I’m not so sure if this is the best approach. I understand that Scrum is all about transparency, but I believe some people just won’t express their true feelings if it’s displayed in front of everyone else.\n\nSo, instead I’ve set up a Google Sheets document with dates, team members and predefined mood options, plus some statistics on average, lowest and highest moods. It’ll be interesting to see the long-term results!\n\nI’ve set up a sample (empty) doc if you’re interested in using it. [Click here to open in Google Drive](https://docs.google.com/spreadsheets/d/1xngmaHEbWhjiPp6obMxMqd-r8sqiIzv23UyUuv2M0ek/edit?usp=sharing) :)\n",
+      "preview": "Recently I’ve been doing a lot of reading about the responsibilities …",
+      "basename": "2016-07-24-hey-niko-niko"
+    }
+  }
+}

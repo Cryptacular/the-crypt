@@ -26,8 +26,6 @@ Just the other day I met up with a fellow Scrum Master in the company, who led m
 
 A big part of your job as Scrum Master comes down to looking after your team. Not in the way a project manager might, but more like a good friend. You look out for them, try and mediate conflicts, remove any obstacles the team might run into, be a first point of contact for people outside the team, and so on. Because you are not a manager, you’re part of the team. Especially when you’re half Scrum Master, half developer like me.
 
----
-
 As I mentioned at the start of this article, I’m a Junior Dev and a Junior Scrum Master, so I’m looking for any opportunities to improve. What has your experience been with Scrum? What have you appreciated in a Scrum Master, or what did you wish they did? What about those of you who have been in the role of Scrum Master yourselves, what have your experiences been like? Let me know in the comments below!
 
 Until next time.

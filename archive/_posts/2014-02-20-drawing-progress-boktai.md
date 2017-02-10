@@ -57,6 +57,6 @@ Stay tuned for more updates as they happen.
 
 (Image credits: <a href="http://www.usgamer.net/articles/making-bad-hardware-design-fun-remembering-boktai" target="_blank">Boktai cartridge</a> and <a href="http://www.mobygames.com/game/dos/doom/cover-art/gameCoverId,3907/" target="_blank">Doom cover</a> and their respective copyrights)
 
- [1]: src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai-of-doom-v2.jpg
- [2]: src="{{ site.baseurl }}/img/wp-uploads/2014/02/boktai.jpg
- [3]: src="{{ site.baseurl }}/img/wp-uploads/2014/02/doom-cover.jpg
+ [1]: src="/img/wp-uploads/2014/02/boktai-of-doom-v2.jpg
+ [2]: src="/img/wp-uploads/2014/02/boktai.jpg
+ [3]: src="/img/wp-uploads/2014/02/doom-cover.jpg

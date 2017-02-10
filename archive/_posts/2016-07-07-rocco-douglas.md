@@ -16,7 +16,7 @@ After a few iterations, we came up with the version so here today. The main vers
 For more information or if you are interested in getting real honest marketing, [check out Rocco Douglas here](http://roccodouglas.com)!
 
 <div style="text-align: center;" markdown="1">
-![Base colour version]({{ site.baseurl }}/img/blog/rocco-douglas/rocco-douglas-logo-dark.png)
+![Base colour version](/img/blog/rocco-douglas/rocco-douglas-logo-dark.png)
 
-![Reverse version]({{ site.baseurl }}/img/blog/rocco-douglas/rocco-douglas-logo-reverse.png)
+![Reverse version](/img/blog/rocco-douglas/rocco-douglas-logo-reverse.png)
 </div>

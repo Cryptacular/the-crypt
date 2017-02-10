@@ -1,0 +1,17 @@
+[
+  {
+    "2013-01-25-first-person-shooter": {
+      "title": "First Person Shooter",
+      "layout": "post",
+      "categories": [
+        "animation",
+        "3D modelling",
+        "texturing"
+      ],
+      "image": "/img/blog/super-city/super-city.jpg",
+      "__content": "\n(To see the full HD clip, [click here](http://vimeo.com/58088005))\n\nThis short video was made for a New Zealand tv show, where the two main characters are playing a video game. The episode aired in 2013.\n\nIt was made in 14 days. Apart from the soldier models, all modelling and texturing was done by me, as well as all the animation, lighting and rendering.\n\nCreated in Maya, After Effects and Blender.\n",
+      "preview": "(To see the full HD clip, [click here](http://vimeo.com/58088005))\n\n…",
+      "basename": "2013-01-25-first-person-shooter"
+    }
+  }
+]

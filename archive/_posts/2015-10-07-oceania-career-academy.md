@@ -15,6 +15,6 @@ Once signed off, I built the email from the ground up for [MailChimp](http://mai
 
 The design is also mobile responsive. You can compare the desktop and mobile versions here:
 
-![Desktop vs. Mobile]({{ site.baseurl }}/img/blog/oca/mailchimp-desktop-mobile.png)
+![Desktop vs. Mobile](/img/blog/oca/mailchimp-desktop-mobile.png)
 
 See the announcement of Oceania Career Academy on [The Fono website](http://www.thefono.org/services-fees/education/oceania-career-academy/).

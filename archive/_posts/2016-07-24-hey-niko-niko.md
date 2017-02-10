@@ -15,16 +15,14 @@ I had personally never heard about them, though I don’t doubt they’re pretty
 
 As our team uses Slack fairly regularly for conversations, I set up a simple poll with the question at hand (“How was your day?”) and 5 options: a range of emojis from “Great!” to “Awful! I want to go home”. This is my poll stub:
 
-```
+`
 /poll “How was your day today? Feel free to add a comment as well.” “:smile: Great!” “:slightly_smiling_face: Pretty good” “:confused: Average / confused” “:disappointed: Bad” “:anguished: Awful! I want to go home”
-```
+`
 
 At first glance this might sound a little pointless, as you can usually tell how someone’s feeling right? Wrong. I’ve been putting this technique to use for about a week now and I’ve been very surprised by the outcomes. I won’t go into anyone’s actual feelings, as this is of course confidential, but we’ve already identified a pain point focused around an third-party vendor.
 
 I’ve implemented the calendar a little differently to what the article describes. They suggest you print out or draw a grid with dates and let each team member write down their mood. However, I’m not so sure if this is the best approach. I understand that Scrum is all about transparency, but I believe some people just won’t express their true feelings if it’s displayed in front of everyone else.
 
 So, instead I’ve set up a Google Sheets document with dates, team members and predefined mood options, plus some statistics on average, lowest and highest moods. It’ll be interesting to see the long-term results!
-
----
 
 I’ve set up a sample (empty) doc if you’re interested in using it. [Click here to open in Google Drive](https://docs.google.com/spreadsheets/d/1xngmaHEbWhjiPp6obMxMqd-r8sqiIzv23UyUuv2M0ek/edit?usp=sharing) :)
