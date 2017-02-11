@@ -24,6 +24,10 @@ h6 {
     display: block;
 }
 
+.u-hide {
+    display: none;
+}
+
 footer {
     text-align: center;
 }
@@ -75,8 +79,7 @@ a:active {
 }
 
 .cr-app-section {
-    flex-basis: 100%;
-    flex-grow: 1;
+    flex: 1;
     margin: 0.675em 0;
 }
 

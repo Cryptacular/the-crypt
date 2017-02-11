@@ -379,7 +379,7 @@ class Navigation extends React.Component {
         "basename": "2014-12-21-one-pissed-parrot"
         },
         "2015-09-24-aim-design-development": {
-        "title": "AIM Design &amp; Development",
+        "title": "AIM Design & Development",
         "author": "admin",
         
         "categories": [

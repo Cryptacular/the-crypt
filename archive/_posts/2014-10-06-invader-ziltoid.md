@@ -14,10 +14,13 @@ Both are about an alien invading earth, but the former is sent to destroy it, wh
 
 EDIT: T-Shirts are now available in Mens and Womens styles in a range of sizes and colours! Check them out below:
 
-<a href="http://thecrypt.printmighty.co.nz/" target="_blank"><img src="/img/wp-uploads/2014/10/invader-ziltoid-shirt-mens-150x150.jpg" alt="invader-ziltoid-shirt-mens" width="150" height="150" class="alignnone size-thumbnail wp-image-399" /></a> <a href="http://thecrypt.printmighty.co.nz/" target="_blank"><img src="/img/wp-uploads/2014/10/invader-ziltoid-shirt-womens-150x150.jpg" alt="invader-ziltoid-shirt-womens" width="150" height="150" class="alignnone size-thumbnail wp-image-400" /></a>
+![Mens](/img/wp-uploads/2014/10/invader-ziltoid-shirt-mens-150x150.jpg)
+![Womens](/img/wp-uploads/2014/10/invader-ziltoid-shirt-womens-150x150.jpg)
+
+[Click here to buy](http://thecrypt.printmighty.co.nz/)
 
 Some progress shots:
 
-<div data-featherlight-gallery data-featherlight-filter="a" class="mbm">
-  <a href="/img/wp-uploads/2014/10/sketch.jpg"><img src="/img/wp-uploads/2014/10/sketch-150x150.jpg" alt="sketch" width="150" height="150" class="alignnone size-thumbnail wp-image-391" /></a> <a href="/img/wp-uploads/2014/10/ink.jpg"><img src="/img/wp-uploads/2014/10/ink-150x150.jpg" alt="ink" width="150" height="150" class="alignnone size-thumbnail wp-image-392" /></a> <a href="/img/wp-uploads/2014/10/invader-ziltoid-wip.jpg"><img src="/img/wp-uploads/2014/10/invader-ziltoid-wip-150x150.jpg" alt="invader-ziltoid-wip" width="150" height="150" class="alignnone size-thumbnail wp-image-394" />
-</div>
+![Sketch](/img/wp-uploads/2014/10/sketch.jpg)
+![Ink](/img/wp-uploads/2014/10/ink.jpg)
+![WIP](/img/wp-uploads/2014/10/invader-ziltoid-wip.jpg)

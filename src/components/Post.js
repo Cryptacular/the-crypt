@@ -45,9 +45,9 @@ class Post extends React.Component {
     render() {
         if (this.doesPageExist()) {
             return (
-                <section className={"cr-section-page " + this.props.className}>
+                <section className={"cr-section-post " + this.props.className}>
                     <h1>{this.state.page.title}</h1>
-                    <img src={this.state.page.image} alt={this.state.pagename} className="cr-post-image" />
+                    <img src={this.state.page.image} alt={this.state.pagename} className={"cr-post-image" + (this.state.page.image ? "" : " u-hide")} />
                     <Markdown source={this.state.page.content.replace(/\\n/g, "\n")} />
                 </section>
             )

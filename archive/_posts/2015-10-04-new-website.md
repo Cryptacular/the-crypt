@@ -8,7 +8,7 @@ Hi everyone! If you've seen my website before, you might notice it has changed a
 
 My previous site was built on WordPress, adapted from an existing theme. However, I was never entirely happy with it, plus WordPress is a bit bloaty. Aside from that, I felt a refresh in design was due as well!
 
-So, I've decided to go with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>! It's basically a CMS for developers, but without the conventional CMS. It works with a Ruby gem installed on your local machine (or server if you have access to it via ssh) and you upload the files it generates via FTP.
+So, I've decided to go with [Jekyll](http://jekyllrb.com/)! It's basically a CMS for developers, but without the conventional CMS. It works with a Ruby gem installed on your local machine (or server if you have access to it via ssh) and you upload the files it generates via FTP.
 
 It gives you much more freedom as a developer to tweak your site and add and update templates, all without a slow, bulky CMS. It's great!
 

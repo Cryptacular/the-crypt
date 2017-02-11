@@ -8,7 +8,7 @@ image: "/img/wp-uploads/2014/04/boktai-of-doom-final-small.jpg"
 ---
 *Boktai of Doom* is a mash-up of the video games *Boktai: Solar Boy Django* and *Doom*. *Boktai* is about a vampire hunter who uses sunlight (captured by a solar sensor on the physical game cartridge on Gameboy Advance) as his weapon.
 
-The image is based on a poster/cover design for *Doom* &#8211; <a href="/img/wp-uploads/2014/02/doom-cover.jpg" data-featherlight="/img/wp-uploads/2014/02/doom-cover.jpg">click here to view the original</a>.
+The image is based on a poster/cover design for *Doom* &#8211; [click here to view the original](/img/wp-uploads/2014/02/doom-cover.jpg).
 
 I started with a pencil sketch, then scanned it and brought it into Photoshop. Using a Wacom tablet and a ridiculous amount of layers I painted over the pencil sketch and added colour.
 

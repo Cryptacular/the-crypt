@@ -1,7 +1,7 @@
 [
   {
     "2015-09-24-aim-design-development": {
-      "title": "AIM Design &amp; Development",
+      "title": "AIM Design & Development",
       "author": "admin",
       "layout": "post",
       "categories": [
@@ -11,7 +11,7 @@
         "Web"
       ],
       "image": "/img/wp-uploads/2015/09/assetim-cover-image.jpg",
-      "__content": "\n## Website Design and Development in WordPress\n\nWorking closely with the client, I designed this one-page scrolling website with parallax images.\n\nThen, after a few iterations and final approval, I worked on the front end development through WordPress. See below wireframes and final designs.\n\nYou can visit the website here: <a href=\"http://assetim.com.au\" target=\"_blank\">assetim.com.au</a>.\n\nView the wireframe & final design below:\n\n<div data-featherlight-gallery data-featherlight-filter=\"a\" class=\"gallery align-centre\">\n\t<a href=\"/img/wp-uploads/2015/09/wireframe-v1.jpg\"><img class=\"alignnone size-thumbnail wp-image-443\" alt=\"AIM Wireframe\" src=\"/img/wp-uploads/2015/09/wireframe-v1-150x150.jpg\" width=\"150\" height=\"150\" /></a> <a href=\"/img/wp-uploads/2015/09/mockup-v3.jpg\"><img class=\"alignnone size-thumbnail wp-image-442\" alt=\"AIM Final Mockup\" src=\"/img/wp-uploads/2015/09/mockup-v3-150x150.jpg\" width=\"150\" height=\"150\" />\n</div>",
+      "__content": "\n## Website Design and Development in WordPress\n\nWorking closely with the client, I designed this one-page scrolling website with parallax images.\n\nThen, after a few iterations and final approval, I worked on the front end development through WordPress. See below wireframes and final designs.\n\nYou can visit the website here: [assetim.com.au](http://assetim.com.au).\n\nView the wireframe & final design below:\n\n![Wireframe](/img/wp-uploads/2015/09/wireframe-v1.jpg)\n\n![Mockup](/img/wp-uploads/2015/09/mockup-v3.jpg)",
       "preview": "## Website Design and Development in WordPress\n\nWorking closely with …",
       "basename": "2015-09-24-aim-design-development"
     }

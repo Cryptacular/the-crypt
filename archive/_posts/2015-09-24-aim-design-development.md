@@ -1,5 +1,5 @@
 ---
-title: "AIM Design &amp; Development"
+title: "AIM Design & Development"
 author: admin
 layout: post
 categories: [Design, Development, Portfolio (All), Web]
@@ -11,10 +11,10 @@ Working closely with the client, I designed this one-page scrolling website with
 
 Then, after a few iterations and final approval, I worked on the front end development through WordPress. See below wireframes and final designs.
 
-You can visit the website here: <a href="http://assetim.com.au" target="_blank">assetim.com.au</a>.
+You can visit the website here: [assetim.com.au](http://assetim.com.au).
 
 View the wireframe & final design below:
 
-<div data-featherlight-gallery data-featherlight-filter="a" class="gallery align-centre">
-	<a href="/img/wp-uploads/2015/09/wireframe-v1.jpg"><img class="alignnone size-thumbnail wp-image-443" alt="AIM Wireframe" src="/img/wp-uploads/2015/09/wireframe-v1-150x150.jpg" width="150" height="150" /></a> <a href="/img/wp-uploads/2015/09/mockup-v3.jpg"><img class="alignnone size-thumbnail wp-image-442" alt="AIM Final Mockup" src="/img/wp-uploads/2015/09/mockup-v3-150x150.jpg" width="150" height="150" />
-</div>
+![Wireframe](/img/wp-uploads/2015/09/wireframe-v1.jpg)
+
+![Mockup](/img/wp-uploads/2015/09/mockup-v3.jpg)

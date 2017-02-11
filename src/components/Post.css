@@ -1,3 +1,5 @@
+.cr-section-post img,
 .cr-post-image {
     max-width: 100%;
+    height: auto;
 }
