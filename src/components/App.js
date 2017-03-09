@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Router from 'react-router-component';
+import Chat from './Chat';
 import Navigation from './Navigation';
 import Page from './Page';
 import Post from './Post';
@@ -14,8 +15,9 @@ class App extends Component {
   render() {
     return (
       <div className="cr-app-content">
-        <Navigation className="cr-app-section" />
+        <Chat className="cr-app-section" />
         <Locations hash component={null}>
+          <Location path="/nav" handler={Navigation} className="cr-app-section" />
           <Location path="/:pagename" handler={Page} className="cr-app-section" />
           <Location path="/post/:pagename" handler={Post} className="cr-app-section" />
           <NotFound handler={Empty} />
