@@ -31,7 +31,7 @@ class Navigation extends React.Component {
                 <h2>Posts</h2>
                 <ul>
                     {[...posts].map((post, key) =>
-                        <li key={key}><a href={'#/post' + post.basename}>{post.title}</a></li>
+                        <li key={key}><a href={'#/post/' + post.basename}>{post.title}</a></li>
                     )}
                 </ul>
             </section>
@@ -57,7 +57,7 @@ class Navigation extends React.Component {
 
         denormalisedPages.push({
             title: page.title,
-            basename: `${page.basename}`
+            basename: page.basename || key
         });
     }
 

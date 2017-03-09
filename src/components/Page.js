@@ -1,6 +1,7 @@
 import React from 'react';
 import Markdown from 'react-markdown';
 import './Page.css';
+import PageService from './PageService';
 import Spinner from './Spinner';
 
 class Page extends React.Component {
@@ -21,7 +22,7 @@ class Page extends React.Component {
     }
 
     getPage(pageName) {
-        fetch(`https://the-crypt-1047.firebaseio.com/page/${pageName}.json`) 
+        PageService.getPage(pageName)
             .then(result => {
                 return result.json().then(json => {
                     if (result.ok && json !== null) {
