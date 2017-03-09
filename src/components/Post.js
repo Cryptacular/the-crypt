@@ -1,6 +1,7 @@
 import React from 'react';
 import Markdown from 'react-markdown';
 import './Post.css';
+import PostService from './PostService';
 import Spinner from './Spinner';
 
 class Post extends React.Component {
@@ -9,9 +10,6 @@ class Post extends React.Component {
         this.state = {
             page: null
         }
-    }
-
-    componentDidMount() {
         this.getPage(this.props.pagename);
     }
 
@@ -21,7 +19,7 @@ class Post extends React.Component {
     }
 
     getPage(pageName) {
-        fetch(`https://the-crypt-1047.firebaseio.com/post/${pageName}.json`) 
+        PostService.getPost(pageName)
             .then(result => {
                 return result.json().then(json => {
                     if (result.ok && json !== null) {

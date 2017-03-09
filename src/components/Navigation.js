@@ -1,5 +1,7 @@
 import React from 'react';
 import Spinner from './Spinner';
+import PageService from './PageService';
+import PostService from './PostService';
 
 class Navigation extends React.Component {
   constructor(props) {
@@ -29,7 +31,7 @@ class Navigation extends React.Component {
                 <h2>Posts</h2>
                 <ul>
                     {[...posts].map((post, key) =>
-                        <li key={key}><a href={'#/' + post.basename}>{post.title}</a></li>
+                        <li key={key}><a href={'#/post' + post.basename}>{post.title}</a></li>
                     )}
                 </ul>
             </section>
@@ -63,32 +65,28 @@ class Navigation extends React.Component {
   }
 
   getAllPages() {
-    fetch(`https://the-crypt-1047.firebaseio.com/page.json`) 
+    PageService.getAllPages()
         .then(result => {
             return result.json().then(json => {
                 if (result.ok && json !== null) {
                     let denormalisedPages = this.denormalise(json).reverse();
                     this.setState({ pages: denormalisedPages });
                 } else {
-                    this.setState({ 
-                        pages: null
-                    })
+                    this.setState({ pages: null });
                 }
             });
         });
   }
 
   getAllPosts() {
-    fetch(`https://the-crypt-1047.firebaseio.com/post.json`) 
+    PostService.getAllPosts()
         .then(result => {
             return result.json().then(json => {
                 if (result.ok && json !== null) {
                     let denormalisedPosts = this.denormalise(json).reverse();
                     this.setState({ posts: denormalisedPosts });
                 } else {
-                    this.setState({ 
-                        posts: null
-                    })
+                    this.setState({ posts: null });
                 }
             });
         });
