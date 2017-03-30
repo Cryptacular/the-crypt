@@ -1,4 +1,44 @@
 .cr-section-chat {
     box-shadow: 0 0.25em 1em rgba(0,0,0,.3);
-    padding: 2em;
+    position: relative;
+}
+
+.cr-app-section.cr-section-chat {
+    padding-bottom: 5.5em;
+}
+
+.cr-chat-placeholder {
+    font-size: 1.5em;
+    color: #CCC;
+}
+
+.cr-chat-log {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cr-chatMessage-container {
+    display: flex;
+    margin-bottom: 0.5em;
+}
+
+.cr-chat-message {
+    padding: 1em;
+    max-width: 80%;
+
+    background: #CCC;
+}
+
+.cr-chat-message--thecrypt {
+    display: inline-block;
+    margin-left: auto;
+
+    background: #00AA6D;
+    color: #FFF;
+}
+
+.cr-chat-messagebox {
+    position: absolute;
+    bottom: 2em;
 }

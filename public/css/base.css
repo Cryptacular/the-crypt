@@ -62,9 +62,12 @@ a:active {
     text-decoration: underline;
 }
 
+.cr-header {
+    margin: 1em 0.5em 0;
+}
+
 .cr-header-title {
     font-size: 2.5em;
-    margin: 1em 0.5em 0;
     text-align: center;
 }
 
@@ -81,6 +84,7 @@ a:active {
 .cr-app-section {
     flex: 1;
     margin: 0.675em 0;
+    overflow: auto;
 }
 
 .cr-app-section.cr-app-section--small {
