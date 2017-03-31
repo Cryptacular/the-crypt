@@ -32,6 +32,7 @@ class Post extends React.Component {
                             } 
                         })
                     }
+                    this.props.onChange();
                 });
             });
     }

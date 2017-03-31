@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 
 class Empty extends Component {
   render() {
-      return <span></span>
+      return (
+        <section className="cr-section-page cr-app-section">
+          <h1>No page here!</h1>
+        </section>
+      )
   }
 }
 

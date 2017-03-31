@@ -32,18 +32,8 @@ footer {
     text-align: center;
 }
 
-.cr-nav-main {
-    margin-top: 1em;
-    text-align: center;
-}
-
-.cr-nav-main li {
-    display: inline-block;
-    margin: 0 1em;
-}
-
 .cr-app {
-    margin: 2em;
+    margin: 0 2em 1em;
 }
 
 h1 {
@@ -67,73 +57,13 @@ a:active {
 }
 
 .cr-header-title {
-    font-size: 2.5em;
+    font-size: 2em;
+    margin-bottom: 0.3em;
     text-align: center;
-}
-
-.cr-app,
-.cr-app-content {
-    display: -ms-flex;
-	display: -webkit-flex;
-	display: flex;
-    align-items: stretch;
-    justify-content: space-between;
-    flex-direction: column;
-}
-
-.cr-app-section {
-    flex: 1;
-    margin: 0.675em 0;
-    overflow: auto;
-}
-
-.cr-app-section.cr-app-section--small {
-    flex-grow: 0.7;
-}
-
-.cr-section-info {
-    margin: 0.675em 0 0;
-}
-
-.no-js .cr-section-info {
-    margin: 0 auto;
-    max-width: 40em;
-    width: 100%;
-}
-
-.cr-info-portrait {
-    float: right;
-    margin: 0 0 1em 0.5em;
-    width: 6em;
-    height: auto;
-
-    border-radius: 50%;
 }
 
 @media (min-width: 768px) {
     .cr-header-title {
         font-size: 3em;
-    }
-
-    .cr-app-content {
-        flex-direction: row;
-    }
-
-    .cr-app-section {
-        margin: 0.675em;
-    }
-
-    .cr-section-info {
-        min-width: 16em;
-    }
-}
-
-@media (min-width: 1300px) {
-    .cr-app {
-        flex-direction: row;
-    }
-
-    .cr-section-info {
-        margin-right: 3em;
     }
 }

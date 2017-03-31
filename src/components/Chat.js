@@ -36,6 +36,7 @@ class Chat extends React.Component {
     displayMessage(activity) {
         let messages = this.state.messages;
         messages.push(activity);
+        this.props.onUpdate();
         this.setState({messages: messages, loading: false});
     }
 

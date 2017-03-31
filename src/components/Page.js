@@ -33,8 +33,9 @@ class Page extends React.Component {
                                 title: 'Not Found',
                                 content: 'Sorry, I couldn\'t find this page! Ya sure ya got the right URL?'
                             } 
-                        })
+                        });
                     }
+                    this.props.onChange();
                 });
             });
     }
