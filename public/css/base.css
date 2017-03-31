@@ -33,7 +33,7 @@ footer {
 }
 
 .cr-app {
-    margin: 0 2em 1em;
+    margin: 0 0.5em 1em;
 }
 
 h1 {
@@ -63,6 +63,10 @@ a:active {
 }
 
 @media (min-width: 768px) {
+    .cr-app {
+        margin: 0 2em 1em;
+    }
+
     .cr-header-title {
         font-size: 3em;
     }
