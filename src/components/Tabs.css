@@ -47,6 +47,7 @@
 
 .cr-nav-main {
     margin-bottom: 1em;
+    float: none;
     text-align: center;
 }
 
@@ -60,5 +61,17 @@
     100% {
         transform: scale(2);
         opacity: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .cr-nav-main {
+        float: right;
+        margin-top: 1em;
+    }
+
+    .cr-nav-main li {
+        display: inline-block;
+        margin: 0 1em;
     }
 }
