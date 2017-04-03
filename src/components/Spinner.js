@@ -5,7 +5,7 @@ class Spinner extends React.Component {
     render() {
         if (this.props.loading || this.props.loading === undefined) {
             return (
-                <div className="spinner">
+                <div className={"spinner " + this.props.className}>
                     <div className="bounce1"></div>
                     <div className="bounce2"></div>
                     <div className="bounce3"></div>

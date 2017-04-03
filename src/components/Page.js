@@ -48,8 +48,10 @@ class Page extends React.Component {
         if (this.doesPageExist()) {
             return (
                 <section className={"cr-section-page " + this.props.className}>
-                    <h1>{this.state.page.title}</h1>
-                    <Markdown source={this.state.page.content.replace(/\\n/g, "\n")} />
+                    <div className="cr-page-content">
+                        <h1>{this.state.page.title}</h1>
+                        <Markdown source={this.state.page.content.replace(/\\n/g, "\n")} />
+                    </div>
                 </section>
             )
         }

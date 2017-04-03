@@ -1,21 +1,27 @@
 .cr-section-chat {
     box-shadow: 0 0.25em 1em rgba(0,0,0,.3);
-    position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
-.cr-app-section.cr-section-chat {
-    padding-bottom: 5.5em;
+.cr-chat-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .cr-chat-placeholder {
-    font-size: 1.5em;
     color: #CCC;
+    font-size: 1.5em;
+    text-align: center;
 }
 
 .cr-chat-log {
+    flex: 1;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: auto;
 }
 
 .cr-chatMessage-container {
@@ -24,21 +30,74 @@
 }
 
 .cr-chat-message {
-    padding: 1em;
-    max-width: 80%;
-
-    background: #CCC;
-}
-
-.cr-chat-message--thecrypt {
+    animation: chat-slide-in-left 1s ease 1;
     display: inline-block;
+    padding: 0.5em 1em;
+    max-width: 80%;
     margin-left: auto;
-
+    position: relative;
+    
     background: #00AA6D;
     color: #FFF;
 }
 
+.cr-chat-message--thecrypt {
+    animation: chat-slide-in-right 1s ease 1;
+    margin-left: 0;
+
+    background: #CCC;
+    color: #333;
+}
+
+@keyframes chat-slide-in-left {
+    from {
+        left: -20.0px;
+        opacity: 0.0;
+    }
+
+    to {
+        left: 0px;
+        opacity: 1.0;
+    }
+}
+
+@keyframes chat-slide-in-right {
+    from {
+        right: -20.0px;
+        opacity: 0.0;
+    }
+
+    to {
+        right: 0px;
+        opacity: 1.0;
+    }
+}
+
 .cr-chat-messagebox {
-    position: absolute;
-    bottom: 2em;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+}
+
+.cr-messagebox-input,
+.cr-messagebox-submit {
+    font-family: 'Raleway', sans-serif;
+    padding: 0.5em 1em;
+    outline: none;
+}
+
+.cr-messagebox-input {
+    flex: 1;
+    background: #EEE;
+    border: 1px solid #EEE;
+}
+
+.cr-messagebox-input:focus {
+    background: transparent;
+}
+
+.cr-messagebox-submit {
+    background: #00AA6D;
+    border: none;
+    color: #FFF;
 }

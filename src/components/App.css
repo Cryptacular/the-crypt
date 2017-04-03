@@ -1,6 +1,12 @@
+.cr-app-content {
+    margin: 0 auto;
+    max-width: 50em;
+}
+
 .cr-app-section {
     box-shadow: 0 0.25em 1em rgba(0,0,0,.3);
-    padding: 2em;
+    height: calc(100vh - 15em);
+    padding: 1em 1.3em;
 }
 
 .cr-app-content {
@@ -17,13 +23,11 @@
 }
 
 @media (min-width: 768px) {
+    .cr-app-section {
+        height: calc(100vh - 12em);
+    }
+
     .cr-section-info {
         min-width: 16em;
-    }
-}
-
-@media (min-width: 1300px) {
-    .cr-app {
-        flex-direction: row;
     }
 }

@@ -17,10 +17,10 @@ class Tabs extends React.Component {
         {
             title: "Page", 
             content: <Locations hash component={null}>
-                         <Location path="/" handler={Home} className="cr-app-section" onChange={this.selectTab.bind(this, 0)} />
+                         <Location path="/" handler={Home} className="cr-app-section" onChange={() => this.selectTab(0)} />
                          <Location path="/nav" handler={Navigation} className="cr-app-section" />
-                         <Location path="/:pagename" handler={Page} className="cr-app-section" onChange={this.selectTab.bind(this, 0)} />
-                         <Location path="/post/:pagename" handler={Post} className="cr-app-section" onChange={this.selectTab.bind(this, 0)} />
+                         <Location path="/:pagename" handler={Page} className="cr-app-section" onChange={() => this.selectTab(0)} />
+                         <Location path="/post/:pagename" handler={Post} className="cr-app-section" onChange={() => this.selectTab(0)} />
                          <NotFound handler={Empty} />
                      </Locations>
         },
@@ -75,7 +75,7 @@ class Tabs extends React.Component {
                     
                     {[...this.tabs].map((tab, key) =>
                         <span className={"cr-tab" + ((key === this.state.selectedIndex) ? " cr-tab--active" : "")} 
-                            onClick={this.selectTab.bind(this, key)}
+                            onClick={() => this.selectTab(key)}
                             key={key}>
                                 {tab.title} <span className={ this.state.notifications[key] ? "cr-tab-notification" : "" }></span>
                         </span>

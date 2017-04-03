@@ -4,7 +4,7 @@
     border-bottom-width: 0;
     cursor: pointer;
     margin-left: .5em;
-    padding: 1em 2em;
+    padding: 0.6em 1.8em;
     position: relative;
 }
 
@@ -73,5 +73,9 @@
     .cr-nav-main li {
         display: inline-block;
         margin: 0 1em;
+    }
+
+    .cr-tab {
+        padding: 1em 2em;
     }
 }

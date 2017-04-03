@@ -38,6 +38,14 @@ class Chat extends React.Component {
         messages.push(activity);
         this.props.onUpdate();
         this.setState({messages: messages, loading: false});
+        this.scrollChatLog();
+    }
+
+    scrollChatLog() {
+        var chatLog = document.getElementById("js-chatLog");
+        if (chatLog) {
+            chatLog.scrollTop = chatLog.scrollHeight;
+        }
     }
 
     render() {
@@ -45,24 +53,20 @@ class Chat extends React.Component {
 
         return (
             <section className={"cr-section-chat " + this.props.className}>
-                <h1>Chat</h1>
-                <span className="cr-chat-placeholder">{messages.length <= 0 ? "Start chatting!" : ""}</span>
-                <ul className="cr-chat-log">
-                    {[...messages].map((message, key) =>
-                        <li key={key} className="cr-chatMessage-container">
-                            <span className={"cr-chat-message cr-chat-message--" + message.from.id}>{message.text}</span>
-                        </li>
-                    )}
-                </ul>
-               
-                <Spinner loading={this.state.loading} />
+                <div className="cr-chat-content">
+                    <span className="cr-chat-placeholder">{messages.length <= 0 ? "Start chatting!" : ""}</span>
+                    <ul className="cr-chat-log" id="js-chatLog">
+                        {[...messages].map((message, key) =>
+                            <li key={key} className="cr-chatMessage-container">
+                                <span className={"cr-chat-message cr-chat-message--" + message.from.id}>{message.text}</span>
+                            </li>
+                        )}
+                    </ul>
                 
-                <div className="cr-chat-messagebox">
-                    <form onSubmit={this.handleSubmit}>
-                        <input type="text" value={this.state.messageDraft} onChange={this.handleChange} />
-                        <input type="submit" value="Submit" />
+                    <form onSubmit={this.handleSubmit} className="cr-chat-messagebox">
+                        <input className="cr-messagebox-input" type="text" value={this.state.messageDraft} onChange={this.handleChange} />
+                        <button className="cr-messagebox-submit" type="submit">{this.state.loading ? <Spinner className="cr-spinner--white cr-spinner--button" /> : "Send"}</button>
                     </form>
-
                 </div>
             </section>
         )

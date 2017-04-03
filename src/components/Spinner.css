@@ -40,3 +40,11 @@
     transform: scale(1.0);
   }
 }
+
+.cr-spinner--white > div {
+  background-color: #FFF;
+}
+
+.cr-spinner--button {
+  margin: 0;
+}
