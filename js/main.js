@@ -39,9 +39,6 @@ console.log("%c============ Nice to see you here ;) ============", style);
     const body = document.getElementsByClassName("main")[0];
     body.style = `background-color: ${colour};`;
     body.classList.add("loaded");
-
-    console.log(secondsSinceMidnight);
-    console.log(colour);
   };
 
   setInterval(setBackgroundColour, 5000);
