@@ -1,0 +1,68 @@
+html {
+  overflow: hidden;
+}
+
+.main {
+  background-color: #000;
+  color: #fff;
+  font-family: "Yeseva One", cursive;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: background-color ease 4s;
+  overflow-x: hidden;
+  height: 100vh;
+}
+
+.main > * {
+  opacity: 0;
+  transition: opacity ease 2s;
+}
+
+.main.loaded > * {
+  opacity: 1;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  line-height: 38%;
+  font-size: 25vw;
+  margin: 10vh -3vw 10vh 0;
+  align-items: flex-end;
+}
+
+.title-first {
+  z-index: 2;
+}
+
+.title-last {
+  z-index: 1;
+  color: #000;
+}
+
+.description,
+.links {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  padding: 0;
+}
+
+.description {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.links {
+  list-style-type: none;
+}
+
+.links-link {
+  margin-bottom: 24px;
+  font-size: 24px;
+}
