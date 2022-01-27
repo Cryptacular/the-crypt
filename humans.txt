@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Nick Mertens -- @Cryptacular
 
 # TECHNOLOGY COLOPHON
 
